@@ -1,0 +1,2149 @@
+1	Có lẽ	Có lẽ	X	X	_	8	parataxis	_	_	vi
+2	đã	đã	X	R	_	3	advmod	_	_	vi
+3	thấy	thấy	VERB	V	_	8	advcl	_	_	vi
+4	đủ	đủ	ADJ	A	_	3	xcomp	_	SpaceAfter=No	vi
+5	,	,	PUNCT	,	_	8	punct	_	_	vi
+6	bà	bà	NOUN	Nc	_	7	compound	_	_	vi
+7	Loan	Loan	NOUN	Np	_	8	nsubj	_	_	vi
+8	xách	xách	VERB	V	_	0	root	_	_	vi
+9	túi	túi	NOUN	N	_	8	obj	_	_	vi
+10	đi	đi	VERB	V	_	8	ccomp	_	_	vi
+11	ra	ra	X	R	_	10	advmod	_	_	vi
+12	với	với	ADP	E	_	14	case	_	_	vi
+13	cả	cả	PROPN	P	_	14	det	_	_	vi
+14	ban nhạc	ban nhạc	NOUN	N	_	10	obl	_	_	vi
+15	trong	trong	ADP	E	_	16	case	_	_	vi
+16	lòng	lòng	NOUN	N	_	14	nmod	_	SpaceAfter=No	vi
+17	.	.	PUNCT	.	_	8	punct	_	_	vi
+
+1	thám tử	thám tử	NOUN	N	_	6	nsubj	_	_	vi
+2	Tuấn	Tuấn	NOUN	Np	_	1	compound	_	_	vi
+3	trong	trong	ADP	E	_	4	case	_	_	vi
+4	vai	vai	NOUN	N	_	1	nmod	_	_	vi
+5	Hải	Hải	NOUN	Np	_	4	compound	_	_	vi
+6	xuất hiện	xuất hiện	VERB	V	_	0	root	_	_	vi
+7	bên	bên	NOUN	N	_	6	obj	_	_	vi
+8	Tùng	Tùng	NOUN	Np	_	7	compound	_	_	vi
+9	một cách	một cách	NOUN	N	_	6	obj	_	_	vi
+10	lãnh đạm	lãnh đạm	ADJ	A	_	9	amod	_	SpaceAfter=No	vi
+11	.	.	PUNCT	.	_	6	punct	_	_	vi
+
+1	qua	qua	VERB	V	_	10	obl	_	_	vi
+2	sáu	sáu	NUM	M	NumType=Card	3	nummod	_	_	vi
+3	tháng	tháng	NOUN	N	_	1	obj	_	_	vi
+4	học	học	VERB	V	_	3	xcomp	_	_	vi
+5	tiếng	tiếng	NOUN	N	_	4	obj	_	_	vi
+6	Anh	Anh	NOUN	Np	_	5	compound	_	SpaceAfter=No	vi
+7	,	,	PUNCT	,	_	10	punct	_	_	vi
+8	Tùng	Tùng	NOUN	Np	_	10	nsubj	_	_	vi
+9	đã	đã	X	R	_	10	advmod	_	_	vi
+10	quyết định	quyết định	VERB	V	_	0	root	_	_	vi
+11	cùng	cùng	ADJ	A	_	10	xcomp	_	_	vi
+12	Hải	Hải	NOUN	Np	_	11	obj	_	_	vi
+13	sang	sang	VERB	V	_	10	ccomp	_	_	vi
+14	Úc	Úc	NOUN	Np	_	13	obj	_	_	vi
+15	ôn	ôn	VERB	V	_	13	ccomp	_	_	vi
+16	thi	thi	VERB	V	_	15	xcomp	_	_	vi
+17	vào	vào	ADP	E	_	18	case	_	_	vi
+18	đại học	đại học	NOUN	N	_	16	obl	_	SpaceAfter=No	vi
+19	.	.	PUNCT	.	_	10	punct	_	_	vi
+
+1	Mới	Mới	X	R	_	3	advmod	_	_	vi
+2	16	16	NUM	M	NumType=Card	3	nummod	_	_	vi
+3	tuổi	tuổi	NOUN	Nu	_	9	obl	_	_	vi
+4	LBKT	LBKT	PUNCT	LBKT	_	3	punct	_	_	vi
+5	năm	năm	NOUN	N	_	3	appos	_	_	vi
+6	1971	1971	NUM	M	NumType=Card	5	nummod	_	_	vi
+7	RBKT	RBKT	PUNCT	RBKT	_	3	punct	_	_	vi
+8	Nguyễn Văn Quí	Nguyễn Văn Quí	NOUN	Np	_	9	nsubj	_	_	vi
+9	tình nguyện	tình nguyện	VERB	V	_	0	root	_	_	vi
+10	nhập ngũ	nhập ngũ	VERB	V	_	9	xcomp	_	SpaceAfter=No	vi
+11	.	.	PUNCT	.	_	9	punct	_	_	vi
+
+1	chị	chị	NOUN	N	_	4	nsubj	_	_	vi
+2	ta	ta	PROPN	P	_	1	det	_	_	vi
+3	bị	bị	VERB	V	_	4	aux:pass	_	_	vi
+4	mù	mù	VERB	V	_	0	root	_	_	vi
+5	mắt	mắt	NOUN	N	_	4	obj	_	SpaceAfter=No	vi
+6	,	,	PUNCT	,	_	7	punct	_	_	vi
+7	cõng	cõng	VERB	V	_	4	conj	_	_	vi
+8	trên	trên	ADP	E	_	9	case	_	_	vi
+9	lưng	lưng	NOUN	N	_	7	obl	_	_	vi
+10	đứa	đứa	NOUN	N	_	7	obj	_	_	vi
+11	bé	bé	NOUN	N	_	10	compound	_	_	vi
+12	đến	đến	VERB	V	_	4	conj	_	_	vi
+13	trú	trú	VERB	V	_	12	xcomp	_	_	vi
+14	mưa	mưa	NOUN	N	_	13	obj	_	_	vi
+15	trước	trước	ADP	E	_	16	case	_	_	vi
+16	cổng	cổng	NOUN	N	_	14	nmod	_	_	vi
+17	trường	trường	NOUN	N	_	16	compound	_	_	vi
+18	rét	rét	ADJ	A	_	4	xcomp	_	_	vi
+19	run	run	ADJ	A	_	18	amod	_	_	vi
+20	cầm cập	cầm cập	ADJ	A	_	19	amod	_	SpaceAfter=No	vi
+21	.	.	PUNCT	.	_	4	punct	_	_	vi
+
+1	phức tạp	phức tạp	ADJ	A	_	0	root	_	_	vi
+2	không	không	X	R	Polarity=Neg	3	advmod	_	_	vi
+3	kém	kém	ADJ	A	_	1	amod	_	_	vi
+4	là	là	CCONJ	C	_	1	cc	_	_	vi
+5	tình trạng	tình trạng	NOUN	N	_	1	obj	_	_	vi
+6	nhập	nhập	VERB	V	_	5	xcomp	_	_	vi
+7	lậu	lậu	ADJ	A	_	6	xcomp	_	_	vi
+8	nông sản	nông sản	NOUN	N	_	6	obj	_	_	vi
+9	thực phẩm	thực phẩm	NOUN	N	_	8	compound	_	SpaceAfter=No	vi
+10	.	.	PUNCT	.	_	1	punct	_	_	vi
+
+1	học	học	VERB	V	_	9	obl	_	_	vi
+2	hết	hết	X	R	_	1	advmod	_	_	vi
+3	cấp	cấp	NOUN	N	_	1	obj	_	_	vi
+4	II	II	NUM	M	NumType=Card	3	nummod	_	SpaceAfter=No	vi
+5	,	,	PUNCT	,	_	9	punct	_	_	vi
+6	nó	nó	PROPN	P	_	9	nsubj	_	_	vi
+7	được	được	VERB	V	_	9	aux:pass	_	_	vi
+8	bà	bà	NOUN	N	_	9	nsubj	_	_	vi
+9	gửi	gửi	VERB	V	_	0	root	_	_	vi
+10	người	người	NOUN	N	_	9	obj	_	_	vi
+11	quen	quen	VERB	V	_	10	xcomp	_	_	vi
+12	làm	làm	VERB	V	_	10	xcomp	_	_	vi
+13	thợ may	thợ may	NOUN	N	_	12	obj	_	_	vi
+14	ở	ở	ADP	E	_	15	case	_	_	vi
+15	Hà Nội	Hà Nội	NOUN	Np	_	10	advcl	_	_	vi
+16	dạy	dạy	VERB	V	_	10	xcomp	_	_	vi
+17	nghề	nghề	NOUN	N	_	16	obj	_	_	vi
+18	cho	cho	ADP	E	_	19	case	_	_	vi
+19	nó	nó	PROPN	P	_	16	obl	_	SpaceAfter=No	vi
+20	...	...	PUNCT	...	_	9	punct	_	_	vi
+
+1	con người	con người	NOUN	N	_	4	nsubj	_	_	vi
+2	này	này	PROPN	P	_	1	det	_	_	vi
+3	là	là	AUX	V	_	4	cop	_	_	vi
+4	ai	ai	PROPN	P	_	0	root	_	SpaceAfter=No	vi
+5	?	?	PUNCT	?	_	4	punct	_	_	vi
+
+1	Đó	Đó	PROPN	P	_	3	nsubj	_	_	vi
+2	là	là	AUX	V	_	3	cop	_	_	vi
+3	Tuấn	Tuấn	NOUN	Np	_	0	root	_	SpaceAfter=No	vi
+4	,	,	PUNCT	,	_	3	punct	_	_	vi
+5	chàng	chàng	NOUN	Nc	_	6	compound	_	_	vi
+6	thư sinh	thư sinh	NOUN	N	_	9	nsubj	_	_	vi
+7	người	người	NOUN	N	_	6	compound	_	_	vi
+8	Hà Nội	Hà Nội	NOUN	Np	_	7	compound	_	_	vi
+9	lành	lành	ADJ	A	_	3	xcomp	_	_	vi
+10	như	như	CCONJ	C	_	9	cc	_	_	vi
+11	ngụm	ngụm	NOUN	Nc	_	12	compound	_	_	vi
+12	nước	nước	NOUN	N	_	9	obj	_	_	vi
+13	mưa	mưa	NOUN	N	_	12	compound	_	SpaceAfter=No	vi
+14	.	.	PUNCT	.	_	3	punct	_	_	vi
+
+1	Tuy nhiên	Tuy nhiên	CCONJ	C	_	9	cc	_	_	vi
+2	sau	sau	ADP	E	_	4	case	_	_	vi
+3	ba	ba	NUM	M	NumType=Card	4	nummod	_	_	vi
+4	chữ	chữ	NOUN	N	_	9	nsubj	_	_	vi
+5	này	này	PROPN	P	_	4	det	_	_	vi
+6	là	là	AUX	V	_	9	cop	_	_	vi
+7	những	những	DET	L	_	9	det	_	_	vi
+8	con	con	NOUN	Nc	_	9	compound	_	_	vi
+9	chữ	chữ	NOUN	N	_	0	root	_	_	vi
+10	bị	bị	VERB	V	_	13	aux:pass	_	_	vi
+11	bút	bút	NOUN	N	_	13	nsubj	_	_	vi
+12	xóa	xóa	VERB	V	_	11	xcomp	_	_	vi
+13	đè	đè	VERB	V	_	9	ccomp	_	_	vi
+14	lên	lên	VERB	V	_	13	xcomp	_	_	vi
+15	và	và	SCONJ	CC	_	16	cc	_	_	vi
+16	có	có	VERB	V	_	9	conj	_	_	vi
+17	đóng	đóng	VERB	V	_	16	xcomp	_	_	vi
+18	dấu	dấu	NOUN	N	_	17	obj	_	_	vi
+19	kèm	kèm	VERB	V	_	18	xcomp	_	SpaceAfter=No	vi
+20	.	.	PUNCT	.	_	9	punct	_	_	vi
+
+1	sau	sau	ADP	E	_	5	obl	_	_	vi
+2	đó	đó	PROPN	P	_	1	nmod	_	_	vi
+3	bà	bà	NOUN	N	_	5	nsubj	_	_	vi
+4	lại	lại	X	R	_	5	advmod	_	_	vi
+5	xin	xin	VERB	V	_	0	root	_	_	vi
+6	cho	cho	VERB	V	_	5	xcomp	_	_	vi
+7	cô	cô	NOUN	N	_	6	obj	_	_	vi
+8	tới	tới	VERB	V	_	6	obj	_	_	vi
+9	học	học	VERB	V	_	8	xcomp	_	_	vi
+10	miễn phí	miễn phí	VERB	V	_	9	xcomp	_	_	vi
+11	tại	tại	ADP	E	_	12	case	_	_	vi
+12	trường	trường	NOUN	N	_	9	obl	_	_	vi
+13	mù	mù	ADJ	A	_	12	amod	_	_	vi
+14	ở	ở	ADP	E	_	15	case	_	_	vi
+15	Washington	Washington	NOUN	Np	_	12	nmod	_	SpaceAfter=No	vi
+16	.	.	PUNCT	.	_	5	punct	_	_	vi
+
+1	Mới	Mới	X	R	_	2	advmod	_	_	vi
+2	đây	đây	PROPN	P	_	8	obl	_	_	vi
+3	người	người	NOUN	N	_	8	nsubj	_	_	vi
+4	dân	dân	NOUN	N	_	3	compound	_	_	vi
+5	cù lao	cù lao	NOUN	N	_	3	compound	_	_	vi
+6	Rùa	Rùa	NOUN	Np	_	3	compound	_	_	vi
+7	đã	đã	X	R	_	8	advmod	_	_	vi
+8	kiến nghị	kiến nghị	VERB	V	_	0	root	_	_	vi
+9	tập thể	tập thể	ADJ	A	_	8	xcomp	_	_	vi
+10	lên	lên	ADP	E	_	11	case	_	_	vi
+11	thủ tướng	thủ tướng	NOUN	N	_	8	obl	_	_	vi
+12	Chính phủ	Chính phủ	NOUN	N	_	11	compound	_	_	vi
+13	nhằm	nhằm	VERB	V	_	8	ccomp	_	_	vi
+14	chấm dứt	chấm dứt	VERB	V	_	13	xcomp	_	_	vi
+15	khai thác	khai thác	VERB	V	_	14	xcomp	_	_	vi
+16	ở	ở	ADP	E	_	17	case	_	_	vi
+17	quanh	quanh	NOUN	N	_	15	obl	_	_	vi
+18	cù lao	cù lao	NOUN	N	_	17	compound	_	_	vi
+19	này	này	PROPN	P	_	17	det	_	SpaceAfter=No	vi
+20	.	.	PUNCT	.	_	8	punct	_	_	vi
+
+1	phía	phía	NOUN	N	_	0	root	_	_	vi
+2	sau	sau	NOUN	N	_	1	compound	_	_	vi
+3	chuẩn mực	chuẩn mực	NOUN	N	_	1	compound	_	SpaceAfter=No	vi
+4	.	.	PUNCT	.	_	1	punct	_	_	vi
+
+1	Nếu	Nếu	CCONJ	C	_	2	cc	_	_	vi
+2	ở	ở	VERB	V	_	0	root	_	_	vi
+3	lại	lại	VERB	V	_	2	xcomp	_	_	vi
+4	với	với	ADP	E	_	5	case	_	_	vi
+5	cha	cha	NOUN	N	_	2	obl	_	_	vi
+6	thì	thì	CCONJ	C	_	14	cc	_	_	vi
+7	cơ hội	cơ hội	NOUN	N	_	10	nsubj	_	_	vi
+8	phá án	phá án	VERB	V	_	7	xcomp	_	_	vi
+9	sẽ	sẽ	X	R	_	10	advmod	_	_	vi
+10	qua	qua	VERB	V	_	2	parataxis	_	_	vi
+11	đi	đi	VERB	V	_	10	xcomp	_	SpaceAfter=No	vi
+12	,	,	PUNCT	,	_	14	punct	_	_	vi
+13	còn	còn	CCONJ	C	_	14	cc	_	_	vi
+14	đi	đi	VERB	V	_	2	conj	_	_	vi
+15	phá án	phá án	VERB	V	_	14	xcomp	_	_	vi
+16	nếu	nếu	CCONJ	C	_	14	cc	_	_	vi
+17	chẳng	chẳng	X	R	Polarity=Neg	18	advmod	_	_	vi
+18	may	may	ADJ	A	_	2	advcl	_	SpaceAfter=No	vi
+19	...	...	PUNCT	...	_	2	punct	_	_	vi
+
+1	Hải	Hải	NOUN	Np	_	0	root	_	_	vi
+2	vẫn	vẫn	X	R	_	3	advmod	_	_	vi
+3	bình thản	bình thản	ADJ	A	_	1	amod	_	_	vi
+4	như	như	CCONJ	C	_	3	cc	_	_	vi
+5	không	không	X	R	Polarity=Neg	3	advmod	_	SpaceAfter=No	vi
+6	.	.	PUNCT	.	_	1	punct	_	_	vi
+
+1	bà	bà	NOUN	N	_	3	nsubj	_	_	vi
+2	giúp việc	giúp việc	VERB	V	_	1	xcomp	_	_	vi
+3	nghe	nghe	VERB	V	_	0	root	_	_	vi
+4	máy	máy	NOUN	N	_	3	obj	_	SpaceAfter=No	vi
+5	.	.	PUNCT	.	_	3	punct	_	_	vi
+
+1	Chúng tôi	Chúng tôi	PROPN	P	_	2	nsubj	_	_	vi
+2	chôn	chôn	VERB	V	_	0	root	_	_	vi
+3	hộ	hộ	VERB	V	_	2	xcomp	_	_	vi
+4	bà	bà	NOUN	N	_	2	obj	_	_	vi
+5	ấy	ấy	PROPN	P	_	4	det	_	SpaceAfter=No	vi
+6	...	...	PUNCT	...	_	2	punct	_	SpaceAfter=No	vi
+7	"	"	PUNCT	"	_	2	punct	_	SpaceAfter=No	vi
+8	.	.	PUNCT	.	_	2	punct	_	_	vi
+
+1	Thắng	Thắng	NOUN	Np	_	2	nsubj	_	_	vi
+2	kiểm tra	kiểm tra	VERB	V	_	0	root	_	_	vi
+3	ví	ví	NOUN	N	_	2	obj	_	_	vi
+4	tiền	tiền	NOUN	N	_	3	compound	_	_	vi
+5	và	và	SCONJ	CC	_	6	cc	_	_	vi
+6	gọi	gọi	VERB	V	_	2	conj	_	_	vi
+7	thêm	thêm	X	R	_	6	advmod	_	_	vi
+8	hai	hai	NUM	M	NumType=Card	9	nummod	_	_	vi
+9	người	người	NOUN	N	_	6	obj	_	_	vi
+10	bạn	bạn	NOUN	N	_	9	compound	_	_	vi
+11	đóng	đóng	VERB	V	_	2	conj	_	_	vi
+12	vai	vai	NOUN	N	_	11	obj	_	_	vi
+13	khách	khách	NOUN	N	_	11	obj	_	_	vi
+14	làng chơi	làng chơi	NOUN	N	_	13	compound	_	SpaceAfter=No	vi
+15	,	,	PUNCT	,	_	2	punct	_	_	vi
+16	hùng dũng	hùng dũng	ADJ	A	_	2	xcomp	_	_	vi
+17	tiến	tiến	VERB	V	_	16	xcomp	_	_	vi
+18	vào	vào	X	R	_	16	advmod	_	SpaceAfter=No	vi
+19	.	.	PUNCT	.	_	2	punct	_	_	vi
+
+1	theo dõi	theo dõi	VERB	V	_	6	advcl	_	_	vi
+2	câu chuyện	câu chuyện	NOUN	N	_	1	obj	_	_	vi
+3	này	này	PROPN	P	_	2	det	_	SpaceAfter=No	vi
+4	,	,	PUNCT	,	_	6	punct	_	_	vi
+5	tôi	tôi	PROPN	P	_	6	nsubj	_	_	vi
+6	thấy	thấy	VERB	V	_	0	root	_	_	vi
+7	những	những	DET	L	_	8	det	_	_	vi
+8	người	người	NOUN	N	_	13	nsubj	_	_	vi
+9	thẳng thắn	thẳng thắn	ADJ	A	_	8	amod	_	_	vi
+10	như	như	CCONJ	C	_	12	cc	_	_	vi
+11	anh	anh	NOUN	Nc	_	12	compound	_	_	vi
+12	Đại	Đại	NOUN	Np	_	8	conj	_	_	vi
+13	xứng đáng	xứng đáng	ADJ	A	_	6	ccomp	_	_	vi
+14	có	có	VERB	V	_	13	xcomp	_	_	vi
+15	một	một	NUM	M	NumType=Card	16	nummod	_	_	vi
+16	chỗ đứng	chỗ đứng	NOUN	N	_	14	obj	_	_	vi
+17	tốt	tốt	ADJ	A	_	16	amod	_	_	vi
+18	hơn	hơn	X	R	_	17	advmod	_	_	vi
+19	trong	trong	ADP	E	_	20	case	_	_	vi
+20	xã hội	xã hội	NOUN	N	_	16	advcl	_	SpaceAfter=No	vi
+21	.	.	PUNCT	.	_	6	punct	_	_	vi
+
+1	Mọi	Mọi	DET	L	_	2	det	_	_	vi
+2	việc	việc	NOUN	N	_	3	nsubj	_	_	vi
+3	ổn	ổn	ADJ	A	_	0	root	_	SpaceAfter=No	vi
+4	.	.	PUNCT	.	_	3	punct	_	_	vi
+
+1	phải	phải	VERB	V	_	2	aux	_	_	vi
+2	xác định	xác định	VERB	V	_	0	root	_	_	vi
+3	bản thân	bản thân	NOUN	N	_	6	nsubj	_	_	vi
+4	thành phố	thành phố	NOUN	N	_	3	compound	_	_	vi
+5	cũng	cũng	X	R	_	6	advmod	_	_	vi
+6	có	có	VERB	V	_	2	ccomp	_	_	vi
+7	phần	phần	NOUN	N	_	6	obj	_	_	vi
+8	lỗi	lỗi	NOUN	N	_	7	compound	_	_	vi
+9	là	là	CCONJ	C	_	11	cc	_	_	vi
+10	đã	đã	X	R	_	11	advmod	_	_	vi
+11	thay đổi	thay đổi	VERB	V	_	7	conj	_	_	vi
+12	thiết kế	thiết kế	NOUN	N	_	11	obj	_	_	vi
+13	ban đầu	ban đầu	NOUN	N	_	12	compound	_	SpaceAfter=No	vi
+14	.	.	PUNCT	.	_	2	punct	_	_	vi
+
+1	"	"	PUNCT	"	_	2	punct	_	SpaceAfter=No	vi
+2	thỏa thuận	thỏa thuận	VERB	V	_	0	root	_	SpaceAfter=No	vi
+3	"	"	PUNCT	"	_	7	punct	_	_	vi
+4	hay	hay	CCONJ	C	_	7	cc	_	_	vi
+5	không	không	X	R	Polarity=Neg	7	advmod	_	_	vi
+6	"	"	PUNCT	"	_	7	punct	_	SpaceAfter=No	vi
+7	thỏa thuận	thỏa thuận	VERB	V	_	2	conj	_	SpaceAfter=No	vi
+8	"	"	PUNCT	"	_	7	punct	_	SpaceAfter=No	vi
+9	?	?	PUNCT	?	_	2	punct	_	_	vi
+
+1	Hai	Hai	NUM	M	NumType=Card	2	nummod	_	_	vi
+2	người	người	NOUN	N	_	3	nsubj	_	_	vi
+3	kết bạn	kết bạn	VERB	V	_	0	root	_	_	vi
+4	từ	từ	ADP	E	_	5	case	_	_	vi
+5	thuở	thuở	NOUN	N	_	3	obl	_	_	vi
+6	hàn vi	hàn vi	ADJ	A	_	5	amod	_	SpaceAfter=No	vi
+7	,	,	PUNCT	,	_	8	punct	_	_	vi
+8	hợp tác	hợp tác	VERB	V	_	3	conj	_	_	vi
+9	chân thành	chân thành	VERB	V	_	8	xcomp	_	_	vi
+10	và	và	SCONJ	CC	_	12	cc	_	_	vi
+11	không	không	X	R	Polarity=Neg	12	advmod	_	_	vi
+12	đố kỵ	đố kỵ	VERB	V	_	3	conj	_	SpaceAfter=No	vi
+13	.	.	PUNCT	.	_	3	punct	_	_	vi
+
+1	năm	năm	NOUN	N	_	6	obl	_	_	vi
+2	1980	1980	NUM	M	NumType=Card	1	nummod	_	SpaceAfter=No	vi
+3	,	,	PUNCT	,	_	6	punct	_	_	vi
+4	ông	ông	NOUN	Nc	_	5	compound	_	_	vi
+5	Phong	Phong	NOUN	Np	_	6	nsubj	_	_	vi
+6	về	về	VERB	V	_	0	root	_	_	vi
+7	Thái Bình	Thái Bình	NOUN	Np	_	6	obj	_	SpaceAfter=No	vi
+8	,	,	PUNCT	,	_	9	punct	_	_	vi
+9	đặt hàng	đặt hàng	VERB	V	_	6	conj	_	_	vi
+10	và	và	SCONJ	CC	_	11	cc	_	_	vi
+11	giám sát	giám sát	VERB	V	_	6	conj	_	_	vi
+12	sản xuất	sản xuất	VERB	V	_	11	xcomp	_	_	vi
+13	ở	ở	ADP	E	_	15	case	_	_	vi
+14	một	một	NUM	M	NumType=Card	15	nummod	_	_	vi
+15	cơ sở	cơ sở	NOUN	N	_	11	advcl	_	_	vi
+16	chế biến	chế biến	VERB	V	_	15	xcomp	_	_	vi
+17	hàng	hàng	NOUN	N	_	16	obj	_	_	vi
+18	cói	cói	NOUN	N	_	17	compound	_	_	vi
+19	thủ công	thủ công	VERB	V	_	17	xcomp	_	SpaceAfter=No	vi
+20	.	.	PUNCT	.	_	6	punct	_	_	vi
+
+1	Hải	Hải	NOUN	Np	_	3	obj	_	_	vi
+2	vẫn	vẫn	X	R	_	3	advmod	_	_	vi
+3	giữ	giữ	VERB	V	_	0	root	_	_	vi
+4	nguyên	nguyên	ADJ	A	_	3	xcomp	_	_	vi
+5	thói quen	thói quen	NOUN	N	_	3	obj	_	_	vi
+6	ra	ra	VERB	V	_	5	xcomp	_	_	vi
+7	ngoài	ngoài	NOUN	N	_	6	obj	_	_	vi
+8	một mình	một mình	X	X	_	6	dep	_	_	vi
+9	như	như	CCONJ	C	_	6	cc	_	_	vi
+10	trước	trước	ADP	E	_	12	obl	_	_	vi
+11	đây	đây	PROPN	P	_	10	nmod	_	_	vi
+12	đi	đi	VERB	V	_	6	ccomp	_	_	vi
+13	gửi	gửi	VERB	V	_	12	xcomp	_	_	vi
+14	thư	thư	NOUN	N	_	13	obj	_	_	vi
+15	về	về	ADP	E	_	16	case	_	_	vi
+16	công ty	công ty	NOUN	N	_	13	obl	_	SpaceAfter=No	vi
+17	.	.	PUNCT	.	_	3	punct	_	_	vi
+
+1	"	"	PUNCT	"	_	12	punct	_	SpaceAfter=No	vi
+2	Người ta	Người ta	NOUN	N	_	3	nsubj	_	_	vi
+3	cho	cho	VERB	V	_	12	ccomp	_	_	vi
+4	sao	sao	PROPN	P	_	6	det	_	_	vi
+5	không	không	X	R	Polarity=Neg	6	advmod	_	_	vi
+6	nhận	nhận	VERB	V	_	3	ccomp	_	SpaceAfter=No	vi
+7	?	?	PUNCT	?	_	3	punct	_	SpaceAfter=No	vi
+8	"	"	PUNCT	"	_	12	punct	_	SpaceAfter=No	vi
+9	,	,	PUNCT	,	_	12	punct	_	_	vi
+10	anh	anh	NOUN	Nc	_	11	compound	_	_	vi
+11	Thành Bỉ	Thành Bỉ	NOUN	Np	_	12	nsubj	_	_	vi
+12	hỏi	hỏi	VERB	V	_	0	root	_	_	vi
+13	cắc cớ	cắc cớ	ADJ	A	_	12	xcomp	_	SpaceAfter=No	vi
+14	.	.	PUNCT	.	_	12	punct	_	_	vi
+
+1	người	người	NOUN	N	_	5	nsubj	_	_	vi
+2	đi	đi	VERB	V	_	1	xcomp	_	_	vi
+3	cùng	cùng	ADP	E	_	4	case	_	_	vi
+4	giám đốc	giám đốc	NOUN	N	_	2	obl	_	_	vi
+5	đeo	đeo	VERB	V	_	0	root	_	_	vi
+6	găng tay	găng tay	NOUN	N	_	5	obj	_	SpaceAfter=No	vi
+7	,	,	PUNCT	,	_	8	punct	_	_	vi
+8	tháo dỡ	tháo dỡ	VERB	V	_	5	conj	_	_	vi
+9	một số	một số	DET	L	_	11	det	_	_	vi
+10	hộp	hộp	NOUN	Nc	_	11	compound	_	_	vi
+11	cactông	cactông	NOUN	N	_	8	obj	_	SpaceAfter=No	vi
+12	,	,	PUNCT	,	_	13	punct	_	_	vi
+13	quạt điện	quạt điện	NOUN	N	_	11	conj	_	SpaceAfter=No	vi
+14	,	,	PUNCT	,	_	15	punct	_	_	vi
+15	màn hình	màn hình	NOUN	N	_	11	conj	_	_	vi
+16	máy tính	máy tính	NOUN	N	_	15	compound	_	_	vi
+17	và	và	SCONJ	CC	_	11	conj	_	_	vi
+18	một	một	NUM	M	NumType=Card	20	nummod	_	_	vi
+19	chiếc	chiếc	NOUN	Nc	_	20	compound	_	_	vi
+20	máy fax	máy fax	NOUN	N	_	11	conj	_	_	vi
+21	không	không	X	R	Polarity=Neg	22	advmod	_	_	vi
+22	dùng	dùng	VERB	V	_	20	xcomp	_	_	vi
+23	xuống	xuống	X	R	_	8	advmod	_	SpaceAfter=No	vi
+24	.	.	PUNCT	.	_	5	punct	_	_	vi
+
+1	Và	Và	CCONJ	C	_	7	cc	_	_	vi
+2	ông	ông	NOUN	N	_	7	nsubj	_	_	vi
+3	là	là	AUX	V	_	7	cop	_	_	vi
+4	một	một	NUM	M	NumType=Card	7	nummod	_	_	vi
+5	trong	trong	ADP	E	_	7	case	_	_	vi
+6	ba	ba	NUM	M	NumType=Card	7	nummod	_	_	vi
+7	nguyên đơn	nguyên đơn	NOUN	N	_	0	root	_	_	vi
+8	đầu tiên	đầu tiên	ADJ	A	_	7	amod	_	_	vi
+9	của	của	ADP	E	_	10	case	_	_	vi
+10	VN	VN	NOUN	Ny	_	7	nmod	_	_	vi
+11	phát đơn	phát đơn	VERB	V	_	7	xcomp	_	_	vi
+12	kiện	kiện	VERB	V	_	11	xcomp	_	_	vi
+13	các	các	DET	L	_	14	det	_	_	vi
+14	công ty	công ty	NOUN	N	_	12	obj	_	_	vi
+15	sản xuất	sản xuất	VERB	V	_	14	xcomp	_	_	vi
+16	hóa chất	hóa chất	NOUN	N	_	15	obj	_	_	vi
+17	Mỹ	Mỹ	NOUN	Np	_	14	compound	_	SpaceAfter=No	vi
+18	.	.	PUNCT	.	_	7	punct	_	_	vi
+
+1	ban	ban	NOUN	N	_	6	nsubj	_	_	vi
+2	biên tập	biên tập	VERB	V	_	1	xcomp	_	_	vi
+3	báo	báo	NOUN	N	_	1	compound	_	_	vi
+4	Tuổi Trẻ	Tuổi Trẻ	NOUN	Np	_	3	compound	_	_	vi
+5	cũng	cũng	X	R	_	6	advmod	_	_	vi
+6	quyết định	quyết định	VERB	V	_	0	root	_	_	vi
+7	gửi	gửi	VERB	V	_	6	xcomp	_	_	vi
+8	tặng	tặng	VERB	V	_	7	xcomp	_	_	vi
+9	nhóm	nhóm	NOUN	Nc	_	10	compound	_	_	vi
+10	công nhân	công nhân	NOUN	N	_	8	iobj	_	_	vi
+11	đã	đã	X	R	_	12	advmod	_	_	vi
+12	tố cáo	tố cáo	VERB	V	_	10	xcomp	_	_	vi
+13	tiêu cực	tiêu cực	NOUN	N	_	12	obj	_	_	vi
+14	ở	ở	ADP	E	_	15	case	_	_	vi
+15	đường	đường	NOUN	N	_	13	advcl	_	_	vi
+16	liên cảng A5	liên cảng A5	NOUN	Np	_	15	compound	_	_	vi
+17	10	10	NUM	M	NumType=Card	18	compound	_	_	vi
+18	triệu	triệu	NUM	M	NumType=Card	19	nummod	_	_	vi
+19	đồng	đồng	NOUN	Nu	_	8	obj	_	SpaceAfter=No	vi
+20	.	.	PUNCT	.	_	6	punct	_	_	vi
+
+1	Thông thường	Thông thường	ADJ	A	_	8	advcl	_	_	vi
+2	tối	tối	NOUN	N	_	8	obl	_	_	vi
+3	thứ bảy	thứ bảy	NOUN	N	_	2	compound	_	SpaceAfter=No	vi
+4	,	,	PUNCT	,	_	8	punct	_	_	vi
+5	mẹ con	mẹ con	NOUN	N	_	8	nsubj	_	_	vi
+6	bà	bà	NOUN	Nc	_	7	compound	_	_	vi
+7	Loan	Loan	NOUN	Np	_	5	compound	_	_	vi
+8	ăn	ăn	VERB	V	_	0	root	_	_	vi
+9	cơm	cơm	NOUN	N	_	8	obj	_	_	vi
+10	sớm	sớm	ADJ	A	_	8	xcomp	_	_	vi
+11	để	để	ADP	E	_	13	case	_	_	vi
+12	Hùng	Hùng	NOUN	Np	_	13	nsubj	_	_	vi
+13	đến	đến	VERB	V	_	8	ccomp	_	_	vi
+14	đón	đón	VERB	V	_	13	xcomp	_	_	vi
+15	Nụ	Nụ	NOUN	Np	_	14	obj	_	_	vi
+16	đi	đi	VERB	V	_	14	ccomp	_	_	vi
+17	chơi	chơi	VERB	V	_	16	xcomp	_	SpaceAfter=No	vi
+18	.	.	PUNCT	.	_	8	punct	_	_	vi
+
+1	Rồi	Rồi	CCONJ	C	_	3	cc	_	_	vi
+2	ông	ông	NOUN	N	_	3	nsubj	_	_	vi
+3	bắt đầu	bắt đầu	VERB	V	_	0	root	_	_	vi
+4	kể	kể	VERB	V	_	3	xcomp	_	_	vi
+5	về	về	ADP	E	_	6	case	_	_	vi
+6	nỗi	nỗi	NOUN	N	_	4	obl	_	_	vi
+7	đau	đau	VERB	V	_	6	xcomp	_	_	vi
+8	của	của	ADP	E	_	9	case	_	_	vi
+9	mình	mình	PROPN	P	_	6	nmod	_	SpaceAfter=No	vi
+10	.	.	PUNCT	.	_	3	punct	_	_	vi
+
+1	mũi	mũi	NOUN	N	_	5	nsubj	_	_	vi
+2	đua	đua	VERB	V	_	1	xcomp	_	_	vi
+3	xe	xe	NOUN	N	_	1	compound	_	_	vi
+4	không	không	X	R	Polarity=Neg	5	advmod	_	_	vi
+5	bắt	bắt	VERB	V	_	0	root	_	_	vi
+6	được	được	VERB	V	_	5	aux:pass	_	_	vi
+7	tín hiệu	tín hiệu	NOUN	N	_	5	obj	_	_	vi
+8	gì	gì	PROPN	P	_	7	det	_	SpaceAfter=No	vi
+9	.	.	PUNCT	.	_	5	punct	_	_	vi
+
+1	Ngày mai	Ngày mai	NOUN	N	_	5	nmod	_	_	vi
+2	Toàn	Toàn	NOUN	Np	_	5	nsubj	_	_	vi
+3	phải	phải	VERB	V	_	5	aux	_	_	vi
+4	là	là	AUX	V	_	5	cop	_	_	vi
+5	người	người	NOUN	N	_	0	root	_	_	vi
+6	tháo	tháo	VERB	V	_	5	xcomp	_	_	vi
+7	ngòi nổ	ngòi nổ	NOUN	N	_	6	obj	_	_	vi
+8	của	của	ADP	E	_	9	case	_	_	vi
+9	quả	quả	NOUN	N	_	7	nmod	_	_	vi
+10	bom	bom	NOUN	N	_	9	compound	_	_	vi
+11	này	này	PROPN	P	_	9	det	_	_	vi
+12	sao	sao	PROPN	P	_	6	obj	_	_	vi
+13	cho	cho	ADP	E	_	12	case	_	_	vi
+14	không	không	X	R	Polarity=Neg	15	advmod	_	_	vi
+15	một	một	NUM	M	NumType=Card	18	nsubj	_	_	vi
+16	ai	ai	PROPN	P	_	15	det	_	_	vi
+17	phải	phải	VERB	V	_	18	ccomp	_	_	vi
+18	mang	mang	VERB	V	_	12	xcomp	_	_	vi
+19	thương tích	thương tích	NOUN	N	_	18	obj	_	SpaceAfter=No	vi
+20	.	.	PUNCT	.	_	5	punct	_	_	vi
+
+1	Mọi	Mọi	DET	L	_	2	det	_	_	vi
+2	hoạt động	hoạt động	NOUN	N	_	10	nsubj	_	_	vi
+3	và	và	SCONJ	CC	_	4	cc	_	_	vi
+4	mối	mối	NOUN	N	_	2	conj	_	_	vi
+5	quan hệ	quan hệ	NOUN	N	_	4	compound	_	_	vi
+6	xã hội	xã hội	NOUN	N	_	4	compound	_	_	vi
+7	của	của	ADP	E	_	8	case	_	_	vi
+8	Tùng	Tùng	NOUN	Np	_	2	nmod	_	_	vi
+9	đều	đều	X	R	_	10	advmod	_	_	vi
+10	diễn	diễn	VERB	V	_	0	root	_	_	vi
+11	ra	ra	X	R	_	10	advmod	_	_	vi
+12	bên	bên	NOUN	N	_	10	obj	_	_	vi
+13	Hải	Hải	NOUN	Np	_	12	compound	_	SpaceAfter=No	vi
+14	.	.	PUNCT	.	_	10	punct	_	_	vi
+
+1	mắt	mắt	NOUN	N	_	3	nsubj	_	_	vi
+2	Thư	Thư	NOUN	Np	_	1	compound	_	_	vi
+3	sắc	sắc	ADJ	A	_	0	root	_	_	vi
+4	buốt	buốt	ADJ	A	_	3	amod	_	_	vi
+5	như	như	CCONJ	C	_	3	cc	_	_	vi
+6	dao	dao	NOUN	N	_	3	obj	_	SpaceAfter=No	vi
+7	,	,	PUNCT	,	_	3	punct	_	_	vi
+8	mặt	mặt	NOUN	N	_	3	nsubj	_	_	vi
+9	tím	tím	ADJ	A	_	8	amod	_	_	vi
+10	thâm	thâm	ADJ	A	_	9	amod	_	_	vi
+11	lại	lại	X	R	_	9	advmod	_	_	vi
+12	trong	trong	ADP	E	_	14	case	_	_	vi
+13	hai	hai	NUM	M	NumType=Card	14	nummod	_	_	vi
+14	hàm răng	hàm răng	NOUN	N	_	9	nmod	_	_	vi
+15	nghiến	nghiến	VERB	V	_	14	xcomp	_	_	vi
+16	bạnh	bạnh	VERB	V	_	15	xcomp	_	_	vi
+17	quai hàm	quai hàm	NOUN	N	_	15	obj	_	SpaceAfter=No	vi
+18	.	.	PUNCT	.	_	3	punct	_	_	vi
+
+1	cuộc đời	cuộc đời	NOUN	N	_	0	root	_	_	vi
+2	dưới	dưới	ADP	E	_	3	case	_	_	vi
+3	vành	vành	NOUN	N	_	1	nmod	_	_	vi
+4	mũ	mũ	NOUN	N	_	3	compound	_	_	vi
+5	thám tử	thám tử	NOUN	N	_	3	compound	_	SpaceAfter=No	vi
+6	.	.	PUNCT	.	_	1	punct	_	_	vi
+
+1	Hùng	Hùng	NOUN	Np	_	2	nsubj	_	_	vi
+2	tư vấn	tư vấn	VERB	V	_	0	root	_	_	vi
+3	nhiều	nhiều	ADJ	A	_	4	amod	_	_	vi
+4	điều	điều	NOUN	N	_	2	obj	_	_	vi
+5	bổ ích	bổ ích	ADJ	A	_	4	amod	_	_	vi
+6	và	và	SCONJ	CC	_	8	cc	_	_	vi
+7	còn	còn	X	R	_	8	advmod	_	_	vi
+8	đề nghị	đề nghị	VERB	V	_	2	conj	_	_	vi
+9	viết	viết	VERB	V	_	8	xcomp	_	_	vi
+10	thư	thư	NOUN	N	_	9	obj	_	_	vi
+11	giới thiệu	giới thiệu	VERB	V	_	9	ccomp	_	_	vi
+12	con	con	NOUN	N	_	11	obj	_	_	vi
+13	ông	ông	NOUN	N	_	12	compound	_	_	vi
+14	khách	khách	NOUN	N	_	13	compound	_	_	vi
+15	với	với	ADP	E	_	16	case	_	_	vi
+16	bạn	bạn	NOUN	N	_	11	obl	_	_	vi
+17	Hùng	Hùng	NOUN	Np	_	16	compound	_	_	vi
+18	ở	ở	ADP	E	_	19	case	_	_	vi
+19	Berlin	Berlin	NOUN	Np	_	16	nmod	_	SpaceAfter=No	vi
+20	.	.	PUNCT	.	_	2	punct	_	_	vi
+
+1	mất	mất	VERB	V	_	0	root	_	_	vi
+2	uy tín	uy tín	NOUN	N	_	1	obj	_	_	vi
+3	với	với	ADP	E	_	4	case	_	_	vi
+4	đồng bọn	đồng bọn	NOUN	N	_	2	nmod	_	SpaceAfter=No	vi
+5	...	...	PUNCT	...	_	1	punct	_	_	vi
+
+1	phương án	phương án	NOUN	N	_	3	nsubj	_	_	vi
+2	này	này	PROPN	P	_	1	det	_	_	vi
+3	xóa sổ	xóa sổ	VERB	V	_	0	root	_	SpaceAfter=No	vi
+4	.	.	PUNCT	.	_	3	punct	_	_	vi
+
+1	Đó	Đó	PROPN	P	_	3	nsubj	_	_	vi
+2	là	là	AUX	V	_	3	cop	_	_	vi
+3	nguyên nhân	nguyên nhân	NOUN	N	_	0	root	_	_	vi
+4	khách quan	khách quan	ADJ	A	_	3	amod	_	SpaceAfter=No	vi
+5	.	.	PUNCT	.	_	3	punct	_	_	vi
+
+1	Đó	Đó	PROPN	P	_	3	nsubj	_	_	vi
+2	là	là	AUX	V	_	3	cop	_	_	vi
+3	thời điểm	thời điểm	NOUN	N	_	0	root	_	_	vi
+4	cuối	cuối	NOUN	N	_	3	compound	_	_	vi
+5	vụ	vụ	NOUN	N	_	4	compound	_	_	vi
+6	đông xuân	đông xuân	NOUN	N	_	5	compound	_	_	vi
+7	2003	2003	NUM	M	NumType=Card	5	nummod	_	SpaceAfter=No	vi
+8	.	.	PUNCT	.	_	3	punct	_	_	vi
+
+1	Mặc dù	Mặc dù	CCONJ	C	_	6	cc	_	_	vi
+2	công trình	công trình	NOUN	N	_	6	nsubj	_	_	vi
+3	cầu đường	cầu đường	NOUN	N	_	2	compound	_	_	vi
+4	BT2	BT2	NOUN	Ny	_	3	compound	_	_	vi
+5	chưa	chưa	X	R	_	6	advmod	_	_	vi
+6	hoàn thành	hoàn thành	VERB	V	_	0	root	_	SpaceAfter=No	vi
+7	,	,	PUNCT	,	_	6	punct	_	_	vi
+8	HĐND	HĐND	NOUN	Ny	_	11	nsubj	_	_	vi
+9	cũng	cũng	X	R	_	11	advmod	_	_	vi
+10	rất	rất	X	R	_	11	advmod	_	_	vi
+11	cân nhắc	cân nhắc	VERB	V	_	6	parataxis	_	_	vi
+12	nhưng	nhưng	CCONJ	C	_	6	cc	_	_	vi
+13	quyết định	quyết định	VERB	V	_	6	parataxis	_	_	vi
+14	tạo	tạo	VERB	V	_	13	xcomp	_	_	vi
+15	điều kiện	điều kiện	NOUN	N	_	14	obj	_	_	vi
+16	cho	cho	ADP	E	_	17	case	_	_	vi
+17	nhà	nhà	NOUN	Nc	_	14	iobj	_	_	vi
+18	đầu tư	đầu tư	VERB	V	_	17	xcomp	_	_	vi
+19	tiếp tục	tiếp tục	VERB	V	_	17	xcomp	_	_	vi
+20	thi công	thi công	VERB	V	_	19	xcomp	_	SpaceAfter=No	vi
+21	,	,	PUNCT	,	_	22	punct	_	_	vi
+22	hoàn thành	hoàn thành	VERB	V	_	20	conj	_	_	vi
+23	công trình	công trình	NOUN	N	_	20	obj	_	SpaceAfter=No	vi
+24	.	.	PUNCT	.	_	6	punct	_	_	vi
+
+1	trong	trong	ADP	E	_	2	case	_	_	vi
+2	đầu	đầu	NOUN	N	_	11	obl	_	_	vi
+3	tui	tui	PROPN	P	_	2	det	_	_	vi
+4	nghĩ	nghĩ	VERB	V	_	2	xcomp	_	_	vi
+5	ra	ra	X	R	_	4	advmod	_	_	vi
+6	được	được	X	R	_	4	advmod	_	_	vi
+7	cái	cái	NOUN	N	_	4	obj	_	_	vi
+8	gì	gì	PROPN	P	_	7	det	_	_	vi
+9	là	là	CCONJ	C	_	11	cc	_	_	vi
+10	tui	tui	PROPN	P	_	11	nsubj	_	_	vi
+11	làm	làm	VERB	V	_	0	root	_	_	vi
+12	cái	cái	NOUN	N	_	11	obj	_	_	vi
+13	đó	đó	PROPN	P	_	12	det	_	_	vi
+14	trước	trước	ADJ	A	_	12	amod	_	SpaceAfter=No	vi
+15	.	.	PUNCT	.	_	11	punct	_	_	vi
+
+1	cần	cần	VERB	V	_	0	root	_	_	vi
+2	phải	phải	VERB	V	_	3	aux	_	_	vi
+3	có	có	VERB	V	_	1	xcomp	_	_	vi
+4	những	những	DET	L	_	5	det	_	_	vi
+5	công nhân	công nhân	NOUN	N	_	3	obj	_	_	vi
+6	dũng cảm	dũng cảm	ADJ	A	_	5	amod	_	_	vi
+7	như	như	CCONJ	C	_	8	cc	_	_	vi
+8	nhóm	nhóm	NOUN	Nc	_	5	conj	_	_	vi
+9	của	của	ADP	E	_	11	case	_	_	vi
+10	anh	anh	NOUN	Nc	_	11	compound	_	_	vi
+11	Đại	Đại	NOUN	Np	_	8	nmod	_	SpaceAfter=No	vi
+12	.	.	PUNCT	.	_	1	punct	_	_	vi
+
+1	Nguyên	Nguyên	NOUN	Np	_	2	nsubj	_	_	vi
+2	phân công	phân công	VERB	V	_	0	root	_	_	vi
+3	anh	anh	NOUN	Nc	_	4	compound	_	_	vi
+4	bạn	bạn	NOUN	N	_	2	obj	_	_	vi
+5	đồng nghiệp	đồng nghiệp	NOUN	N	_	4	compound	_	_	vi
+6	ở	ở	ADP	E	_	7	case	_	_	vi
+7	vòng	vòng	NOUN	N	_	4	nmod	_	_	vi
+8	ngoài	ngoài	NOUN	N	_	7	compound	_	_	vi
+9	bảo vệ	bảo vệ	VERB	V	_	4	xcomp	_	SpaceAfter=No	vi
+10	,	,	PUNCT	,	_	2	punct	_	_	vi
+11	còn	còn	CCONJ	C	_	2	cc	_	_	vi
+12	mình	mình	PROPN	P	_	13	nsubj	_	_	vi
+13	leo	leo	VERB	V	_	2	parataxis	_	_	vi
+14	lên	lên	VERB	V	_	13	xcomp	_	_	vi
+15	lầu	lầu	NOUN	N	_	13	obj	_	_	vi
+16	của	của	ADP	E	_	17	case	_	_	vi
+17	khu vực	khu vực	NOUN	N	_	15	nmod	_	_	vi
+18	cháy	cháy	VERB	V	_	17	xcomp	_	_	vi
+19	để	để	ADP	E	_	13	case	_	_	vi
+20	cứu	cứu	VERB	V	_	12	mark	_	_	vi
+21	người	người	NOUN	N	_	20	obj	_	_	vi
+22	và	và	SCONJ	CC	_	23	cc	_	_	vi
+23	chữa cháy	chữa cháy	VERB	V	_	20	conj	_	SpaceAfter=No	vi
+24	.	.	PUNCT	.	_	2	punct	_	_	vi
+
+1	đến	đến	ADP	E	_	6	obl	_	_	vi
+2	trưa	trưa	NOUN	N	_	1	nmod	_	SpaceAfter=No	vi
+3	,	,	PUNCT	,	_	6	punct	_	_	vi
+4	đôi	đôi	NUM	M	NumType=Card	5	nummod	_	_	vi
+5	trai gái	trai gái	NOUN	N	_	6	nsubj	_	_	vi
+6	đi	đi	VERB	V	_	0	root	_	_	vi
+7	ăn	ăn	VERB	V	_	6	xcomp	_	_	vi
+8	cơm	cơm	NOUN	N	_	7	obj	_	SpaceAfter=No	vi
+9	.	.	PUNCT	.	_	6	punct	_	_	vi
+
+1	Các	Các	DET	L	_	2	det	_	_	vi
+2	nạn nhân	nạn nhân	NOUN	N	_	4	nsubj	_	_	vi
+3	không	không	X	R	Polarity=Neg	4	advmod	_	_	vi
+4	đơn độc	đơn độc	ADJ	A	_	0	root	_	SpaceAfter=No	vi
+5	.	.	PUNCT	.	_	4	punct	_	_	vi
+
+1	15	15	NUM	M	NumType=Card	2	nummod	_	_	vi
+2	g	g	NOUN	Nu	_	14	obl	_	_	vi
+3	30	30	NUM	M	NumType=Card	2	nummod	_	_	vi
+4	ngày	ngày	NOUN	N	_	2	compound	_	_	vi
+5	11 - 8	11 - 8	NUM	M	NumType=Card	4	nummod	_	SpaceAfter=No	vi
+6	,	,	PUNCT	,	_	14	punct	_	_	vi
+7	đường	đường	NOUN	N	_	14	nsubj	_	_	vi
+8	nước	nước	NOUN	N	_	7	compound	_	_	vi
+9	qua	qua	ADP	E	_	10	case	_	_	vi
+10	tuyến	tuyến	NOUN	N	_	7	advcl	_	_	vi
+11	ống	ống	NOUN	N	_	10	compound	_	_	vi
+12	lại	lại	X	R	_	14	advmod	_	_	vi
+13	được	được	VERB	V	_	14	aux:pass	_	_	vi
+14	đóng	đóng	VERB	V	_	0	root	_	SpaceAfter=No	vi
+15	.	.	PUNCT	.	_	14	punct	_	_	vi
+
+1	trong	trong	ADP	E	_	6	advcl	_	_	vi
+2	nghề	nghề	NOUN	N	_	1	nmod	_	SpaceAfter=No	vi
+3	,	,	PUNCT	,	_	6	punct	_	_	vi
+4	chúng	chúng	PROPN	P	_	6	nsubj	_	_	vi
+5	cũng	cũng	X	R	_	6	advmod	_	_	vi
+6	có	có	VERB	V	_	0	root	_	_	vi
+7	rất	rất	X	R	_	9	advmod	_	_	vi
+8	nhiều	nhiều	ADJ	A	_	9	amod	_	_	vi
+9	cách	cách	NOUN	N	_	6	obj	_	_	vi
+10	"	"	PUNCT	"	_	11	punct	_	SpaceAfter=No	vi
+11	chăn	chăn	VERB	V	_	9	xcomp	_	_	vi
+12	Tây	Tây	NOUN	Np	_	11	dep	_	SpaceAfter=No	vi
+13	"	"	PUNCT	"	_	11	punct	_	SpaceAfter=No	vi
+14	.	.	PUNCT	.	_	6	punct	_	_	vi
+
+1	"	"	PUNCT	"	_	3	punct	_	SpaceAfter=No	vi
+2	Anh	Anh	NOUN	N	_	3	nsubj	_	_	vi
+3	hỏi	hỏi	VERB	V	_	0	root	_	_	vi
+4	ai	ai	PROPN	P	_	3	det	_	SpaceAfter=No	vi
+5	"	"	PUNCT	"	_	3	punct	_	SpaceAfter=No	vi
+6	?	?	PUNCT	?	_	3	punct	_	_	vi
+
+1	phân tích	phân tích	VERB	V	_	0	root	_	_	vi
+2	âm mưu	âm mưu	NOUN	N	_	1	obj	_	_	vi
+3	của	của	ADP	E	_	4	case	_	_	vi
+4	anh em	anh em	NOUN	N	_	2	nmod	_	_	vi
+5	Tuấn	Tuấn	NOUN	Np	_	4	compound	_	_	vi
+6	và	và	SCONJ	CC	_	7	cc	_	_	vi
+7	chấp nhận	chấp nhận	VERB	V	_	1	conj	_	_	vi
+8	cho	cho	VERB	V	_	7	xcomp	_	_	vi
+9	Tuấn	Tuấn	NOUN	Np	_	8	obj	_	_	vi
+10	20	20	NUM	M	NumType=Card	11	compound	_	_	vi
+11	triệu	triệu	NUM	M	NumType=Card	12	nummod	_	_	vi
+12	đồng	đồng	NOUN	Nu	_	8	obj	_	_	vi
+13	với	với	ADP	E	_	14	case	_	_	vi
+14	điều kiện	điều kiện	NOUN	N	_	12	nmod	_	_	vi
+15	Đào	Đào	NOUN	Np	_	17	nsubj	_	_	vi
+16	phải	phải	VERB	V	_	17	ccomp	_	_	vi
+17	đi	đi	VERB	V	_	14	xcomp	_	_	vi
+18	du học	du học	VERB	V	_	17	ccomp	_	_	vi
+19	ở	ở	ADP	E	_	20	case	_	_	vi
+20	Úc	Úc	NOUN	Np	_	17	obl	_	SpaceAfter=No	vi
+21	.	.	PUNCT	.	_	1	punct	_	_	vi
+
+1	Nhu	Nhu	NOUN	Np	_	2	nsubj	_	_	vi
+2	kể	kể	VERB	V	_	0	root	_	SpaceAfter=No	vi
+3	:	:	PUNCT	:	_	2	punct	_	_	vi
+4	sau	sau	ADP	E	_	10	nmod	_	_	vi
+5	sự cố	sự cố	NOUN	N	_	4	nmod	_	_	vi
+6	đó	đó	PROPN	P	_	5	det	_	_	vi
+7	cuộc sống	cuộc sống	NOUN	N	_	10	nsubj	_	_	vi
+8	gia đình	gia đình	NOUN	N	_	7	compound	_	_	vi
+9	vẫn	vẫn	X	R	_	10	advmod	_	_	vi
+10	bình yên	bình yên	ADJ	A	_	2	ccomp	_	SpaceAfter=No	vi
+11	.	.	PUNCT	.	_	2	punct	_	_	vi
+
+1	đến	đến	ADP	E	_	2	case	_	_	vi
+2	nước	nước	NOUN	N	_	6	obl	_	_	vi
+3	này	này	PROPN	P	_	2	det	_	_	vi
+4	thì	thì	CCONJ	C	_	6	cc	_	_	vi
+5	không thể	không thể	X	R	Polarity=Neg	6	advmod	_	_	vi
+6	chịu đựng	chịu đựng	VERB	V	_	0	root	_	_	vi
+7	hơn	hơn	ADJ	A	_	6	xcomp	_	_	vi
+8	được	được	X	R	_	6	advmod	_	_	vi
+9	nữa	nữa	X	R	_	6	advmod	_	SpaceAfter=No	vi
+10	.	.	PUNCT	.	_	6	punct	_	_	vi
+
+1	nhân dân	nhân dân	NOUN	N	_	4	nsubj	_	_	vi
+2	VN	VN	NOUN	Ny	_	1	compound	_	_	vi
+3	đang	đang	X	R	_	4	advmod	_	_	vi
+4	khắc phục	khắc phục	VERB	V	_	0	root	_	_	vi
+5	hậu quả	hậu quả	NOUN	N	_	4	obj	_	_	vi
+6	chiến tranh	chiến tranh	NOUN	N	_	5	compound	_	SpaceAfter=No	vi
+7	.	.	PUNCT	.	_	4	punct	_	_	vi
+
+1	phân tích	phân tích	VERB	V	_	0	root	_	_	vi
+2	âm mưu	âm mưu	NOUN	N	_	1	obj	_	_	vi
+3	của	của	ADP	E	_	4	case	_	_	vi
+4	anh em	anh em	NOUN	N	_	2	nmod	_	_	vi
+5	Tuấn	Tuấn	NOUN	Np	_	4	compound	_	_	vi
+6	và	và	SCONJ	CC	_	7	cc	_	_	vi
+7	chấp nhận	chấp nhận	VERB	V	_	1	conj	_	_	vi
+8	cho	cho	VERB	V	_	7	xcomp	_	_	vi
+9	Tuấn	Tuấn	NOUN	Np	_	8	obj	_	_	vi
+10	20	20	NUM	M	NumType=Card	11	compound	_	_	vi
+11	triệu	triệu	NUM	M	NumType=Card	12	nummod	_	_	vi
+12	đồng	đồng	NOUN	Nu	_	8	obj	_	_	vi
+13	với	với	ADP	E	_	14	case	_	_	vi
+14	điều kiện	điều kiện	NOUN	N	_	12	nmod	_	_	vi
+15	Đào	Đào	NOUN	Np	_	17	nsubj	_	_	vi
+16	phải	phải	VERB	V	_	17	ccomp	_	_	vi
+17	đi	đi	VERB	V	_	14	xcomp	_	_	vi
+18	du học	du học	VERB	V	_	17	ccomp	_	_	vi
+19	ở	ở	ADP	E	_	20	case	_	_	vi
+20	Úc	Úc	NOUN	Np	_	17	obl	_	SpaceAfter=No	vi
+21	.	.	PUNCT	.	_	1	punct	_	_	vi
+
+1	Suốt	Suốt	ADJ	A	_	3	amod	_	_	vi
+2	mấy	mấy	DET	L	_	3	det	_	_	vi
+3	buổi	buổi	NOUN	N	_	8	obl	_	_	vi
+4	tận tình	tận tình	ADJ	A	_	3	amod	_	SpaceAfter=No	vi
+5	,	,	PUNCT	,	_	8	punct	_	_	vi
+6	khách	khách	NOUN	N	_	8	nsubj	_	_	vi
+7	có	có	X	R	_	8	advmod	_	_	vi
+8	cho	cho	VERB	V	_	0	root	_	_	vi
+9	tiền	tiền	NOUN	N	_	8	obj	_	_	vi
+10	chúng	chúng	PROPN	P	_	14	nsubj	_	_	vi
+11	cũng	cũng	X	R	_	12	advmod	_	_	vi
+12	kiên quyết	kiên quyết	ADJ	A	_	14	xcomp	_	_	vi
+13	không	không	X	R	Polarity=Neg	14	advmod	_	_	vi
+14	lấy	lấy	VERB	V	_	8	ccomp	_	SpaceAfter=No	vi
+15	.	.	PUNCT	.	_	8	punct	_	_	vi
+
+1	hết	hết	VERB	V	_	7	obl	_	_	vi
+2	giờ	giờ	NOUN	N	_	1	obj	_	_	vi
+3	làm việc	làm việc	VERB	V	_	2	xcomp	_	SpaceAfter=No	vi
+4	,	,	PUNCT	,	_	7	punct	_	_	vi
+5	anh	anh	NOUN	N	_	7	nsubj	_	_	vi
+6	lại	lại	X	R	_	7	advmod	_	_	vi
+7	xông	xông	VERB	V	_	0	root	_	_	vi
+8	ra	ra	VERB	V	_	7	xcomp	_	_	vi
+9	đồng	đồng	NOUN	N	_	7	obj	_	_	vi
+10	tỉa	tỉa	VERB	V	_	7	ccomp	_	_	vi
+11	đậu	đậu	NOUN	N	_	10	obj	_	SpaceAfter=No	vi
+12	,	,	PUNCT	,	_	13	punct	_	_	vi
+13	cho	cho	VERB	V	_	7	conj	_	_	vi
+14	bò	bò	NOUN	N	_	13	obj	_	_	vi
+15	ăn	ăn	VERB	V	_	14	xcomp	_	SpaceAfter=No	vi
+16	,	,	PUNCT	,	_	17	punct	_	_	vi
+17	cuốc	cuốc	VERB	V	_	7	conj	_	_	vi
+18	đất	đất	NOUN	N	_	17	obj	_	_	vi
+19	trồng	trồng	VERB	V	_	18	xcomp	_	_	vi
+20	cây	cây	NOUN	N	_	19	obj	_	SpaceAfter=No	vi
+21	...	...	PUNCT	...	_	7	punct	_	_	vi
+
+1	Vì	Vì	CCONJ	C	_	6	cc	_	_	vi
+2	phương án	phương án	NOUN	N	_	6	nsubj	_	_	vi
+3	này	này	PROPN	P	_	2	det	_	_	vi
+4	hoặc	hoặc	SCONJ	CC	_	6	cc	_	_	vi
+5	là	là	AUX	V	_	6	cop	_	_	vi
+6	kết quả	kết quả	NOUN	N	_	0	root	_	_	vi
+7	không	không	X	R	Polarity=Neg	8	advmod	_	_	vi
+8	đủ	đủ	ADJ	A	_	6	amod	_	_	vi
+9	tính	tính	NOUN	N	_	8	obj	_	_	vi
+10	thuyết phục	thuyết phục	NOUN	N	_	9	compound	_	_	vi
+11	hoặc	hoặc	SCONJ	CC	_	14	cc	_	_	vi
+12	là	là	AUX	V	_	14	cop	_	_	vi
+13	sẽ	sẽ	X	R	_	14	advmod	_	_	vi
+14	gây	gây	VERB	V	_	6	conj	_	_	vi
+15	tổn thương	tổn thương	NOUN	N	_	14	obj	_	_	vi
+16	cho	cho	ADP	E	_	17	case	_	_	vi
+17	Thọ	Thọ	NOUN	Np	_	14	obl	_	_	vi
+18	và	và	SCONJ	CC	_	14	cc	_	_	vi
+19	câu chuyện	câu chuyện	NOUN	N	_	21	nsubj	_	_	vi
+20	sẽ	sẽ	X	R	_	21	advmod	_	_	vi
+21	phức tạp	phức tạp	ADJ	A	_	6	xcomp	_	_	vi
+22	hơn	hơn	X	R	_	21	advmod	_	SpaceAfter=No	vi
+23	.	.	PUNCT	.	_	6	punct	_	_	vi
+
+1	chính sách	chính sách	NOUN	N	_	8	obj	_	_	vi
+2	tàn bạo	tàn bạo	ADJ	A	_	1	amod	_	_	vi
+3	của	của	ADP	E	_	4	case	_	_	vi
+4	Nhật	Nhật	NOUN	Np	_	1	nmod	_	_	vi
+5	thì	thì	CCONJ	C	_	8	cc	_	_	vi
+6	ai	ai	PROPN	P	_	8	nsubj	_	_	vi
+7	cũng	cũng	X	R	_	8	advmod	_	_	vi
+8	biết	biết	VERB	V	_	0	root	_	_	vi
+9	và	và	SCONJ	CC	_	10	cc	_	_	vi
+10	khiếp sợ	khiếp sợ	VERB	V	_	8	conj	_	SpaceAfter=No	vi
+11	.	.	PUNCT	.	_	8	punct	_	_	vi
+
+1	Hay	Hay	CCONJ	C	_	8	cc	_	_	vi
+2	một	một	NUM	M	NumType=Card	4	nummod	_	_	vi
+3	người	người	NOUN	Nc	_	4	compound	_	_	vi
+4	lính	lính	NOUN	N	_	8	nsubj	_	_	vi
+5	hải quân	hải quân	NOUN	N	_	4	compound	_	_	vi
+6	Pháp	Pháp	NOUN	Np	_	5	compound	_	_	vi
+7	đã	đã	X	R	_	8	advmod	_	_	vi
+8	rải	rải	VERB	V	_	0	root	_	_	vi
+9	truyền đơn	truyền đơn	NOUN	N	_	8	obj	_	_	vi
+10	cho	cho	ADP	E	_	12	case	_	_	vi
+11	người	người	NOUN	Nc	_	12	compound	_	_	vi
+12	dân	dân	NOUN	N	_	8	obl	_	_	vi
+13	nước	nước	NOUN	N	_	12	compound	_	_	vi
+14	Pháp	Pháp	NOUN	Np	_	13	compound	_	_	vi
+15	cùng	cùng	ADJ	A	_	8	xcomp	_	_	vi
+16	chống	chống	VERB	V	_	15	xcomp	_	_	vi
+17	lại	lại	X	R	_	16	advmod	_	_	vi
+18	cuộc chiến	cuộc chiến	NOUN	N	_	16	obj	_	_	vi
+19	phi nghĩa	phi nghĩa	ADJ	A	_	18	amod	_	_	vi
+20	của	của	ADP	E	_	21	case	_	_	vi
+21	quân đội	quân đội	NOUN	N	_	18	nmod	_	_	vi
+22	Pháp	Pháp	NOUN	Np	_	21	compound	_	_	vi
+23	tại	tại	ADP	E	_	24	case	_	_	vi
+24	VN	VN	NOUN	Ny	_	21	nmod	_	SpaceAfter=No	vi
+25	.	.	PUNCT	.	_	8	punct	_	_	vi
+
+1	tốt nghiệp	tốt nghiệp	VERB	V	_	6	advcl	_	_	vi
+2	đại học	đại học	NOUN	N	_	1	obj	_	SpaceAfter=No	vi
+3	,	,	PUNCT	,	_	6	punct	_	_	vi
+4	Nụ	Nụ	NOUN	Np	_	6	nsubj	_	_	vi
+5	được	được	VERB	V	_	6	aux:pass	_	_	vi
+6	vào	vào	VERB	V	_	0	root	_	_	vi
+7	làm	làm	VERB	V	_	6	ccomp	_	_	vi
+8	ở	ở	ADP	E	_	10	case	_	_	vi
+9	một	một	NUM	M	NumType=Card	10	nummod	_	_	vi
+10	tổng công ty	tổng công ty	NOUN	N	_	6	obl	_	_	vi
+11	danh tiếng	danh tiếng	ADJ	A	_	10	amod	_	SpaceAfter=No	vi
+12	.	.	PUNCT	.	_	6	punct	_	_	vi
+
+1	vụ	vụ	NOUN	N	_	6	nsubj	_	_	vi
+2	việc	việc	NOUN	N	_	1	compound	_	_	vi
+3	có	có	X	R	_	6	advmod	_	_	vi
+4	bị	bị	VERB	V	_	6	aux:pass	_	_	vi
+5	"	"	PUNCT	"	_	6	punct	_	SpaceAfter=No	vi
+6	chìm xuồng	chìm xuồng	X	X	_	0	root	_	SpaceAfter=No	vi
+7	"	"	PUNCT	"	_	6	punct	_	SpaceAfter=No	vi
+8	?	?	PUNCT	?	_	6	punct	_	_	vi
+
+1	Tùng	Tùng	NOUN	Np	_	2	nsubj	_	_	vi
+2	liên hoan	liên hoan	NOUN	N	_	0	root	_	SpaceAfter=No	vi
+3	,	,	PUNCT	,	_	4	punct	_	_	vi
+4	kẹp	kẹp	VERB	V	_	2	conj	_	_	vi
+5	thêm	thêm	VERB	V	_	4	xcomp	_	_	vi
+6	ba	ba	NUM	M	NumType=Card	8	nummod	_	_	vi
+7	tên	tên	NOUN	Nc	_	8	compound	_	_	vi
+8	côn đồ	côn đồ	NOUN	N	_	4	obj	_	_	vi
+9	phóng	phóng	VERB	V	_	8	xcomp	_	_	vi
+10	như	như	CCONJ	C	_	11	cc	_	_	vi
+11	xé	xé	VERB	V	_	9	conj	_	_	vi
+12	gió	gió	NOUN	N	_	11	obj	_	SpaceAfter=No	vi
+13	.	.	PUNCT	.	_	2	punct	_	_	vi
+
+1	ông	ông	NOUN	Nc	_	2	compound	_	_	vi
+2	Nguyễn Thế Khanh	Nguyễn Thế Khanh	NOUN	Np	_	7	nsubj	_	SpaceAfter=No	vi
+3	,	,	PUNCT	,	_	4	punct	_	_	vi
+4	chi cục	chi cục	NOUN	N	_	2	conj	_	_	vi
+5	phó	phó	X	Z	_	4	discourse	_	SpaceAfter=No	vi
+6	,	,	PUNCT	,	_	7	punct	_	_	vi
+7	cho	cho	VERB	V	_	0	root	_	_	vi
+8	biết	biết	VERB	V	_	7	xcomp	_	_	vi
+9	đây	đây	PROPN	P	_	12	nsubj	_	_	vi
+10	là	là	AUX	V	_	12	cop	_	_	vi
+11	những	những	DET	L	_	12	det	_	_	vi
+12	mặt hàng	mặt hàng	NOUN	N	_	7	ccomp	_	_	vi
+13	điện tử	điện tử	NOUN	N	_	12	compound	_	_	vi
+14	cũ	cũ	ADJ	A	_	12	amod	_	_	vi
+15	đã	đã	X	R	_	16	advmod	_	_	vi
+16	có	có	VERB	V	_	12	xcomp	_	_	vi
+17	qui định	qui định	NOUN	N	_	16	obj	_	_	vi
+18	cấm	cấm	VERB	V	_	17	xcomp	_	_	vi
+19	nhập khẩu	nhập khẩu	VERB	V	_	18	xcomp	_	_	vi
+20	dưới	dưới	ADP	E	_	22	case	_	_	vi
+21	mọi	mọi	NUM	M	NumType=Card	22	nummod	_	_	vi
+22	hình thức	hình thức	NOUN	N	_	18	obl	_	SpaceAfter=No	vi
+23	.	.	PUNCT	.	_	7	punct	_	_	vi
+
+1	để	để	ADP	E	_	12	advcl	_	_	vi
+2	có	có	VERB	V	_	1	mark	_	_	vi
+3	các	các	DET	L	_	4	det	_	_	vi
+4	số liệu	số liệu	NOUN	N	_	2	obj	_	_	vi
+5	trên	trên	ADJ	A	_	4	amod	_	SpaceAfter=No	vi
+6	,	,	PUNCT	,	_	12	punct	_	_	vi
+7	công an	công an	NOUN	N	_	12	nsubj	_	_	vi
+8	TP	TP	NOUN	Ny	_	7	compound	_	_	vi
+9	trước	trước	NOUN	N	_	12	obl	_	_	vi
+10	đó	đó	PROPN	P	_	9	det	_	_	vi
+11	đã	đã	X	R	_	12	advmod	_	_	vi
+12	có	có	VERB	V	_	0	root	_	_	vi
+13	văn bản	văn bản	NOUN	N	_	12	obj	_	_	vi
+14	đề nghị	đề nghị	VERB	V	_	13	xcomp	_	_	vi
+15	ubnd	ubnd	NOUN	Ny	_	14	obj	_	_	vi
+16	tp	tp	NOUN	Ny	_	15	compound	_	_	vi
+17	HCM	HCM	NOUN	Np	_	16	compound	_	_	vi
+18	thành lập	thành lập	VERB	V	_	14	ccomp	_	_	vi
+19	hội đồng	hội đồng	NOUN	N	_	18	obj	_	_	vi
+20	giám định	giám định	VERB	V	_	19	xcomp	_	_	vi
+21	xây dựng	xây dựng	VERB	V	_	20	xcomp	_	_	vi
+22	công trình	công trình	NOUN	N	_	20	obj	_	_	vi
+23	này	này	PROPN	P	_	22	det	_	SpaceAfter=No	vi
+24	.	.	PUNCT	.	_	12	punct	_	_	vi
+
+1	Ai	Ai	PROPN	P	_	2	nsubj	_	_	vi
+2	nuôi	nuôi	VERB	V	_	9	parataxis	_	_	vi
+3	cá	cá	NOUN	N	_	2	obj	_	SpaceAfter=No	vi
+4	,	,	PUNCT	,	_	5	punct	_	_	vi
+5	nuôi	nuôi	VERB	V	_	2	conj	_	_	vi
+6	bò	bò	NOUN	N	_	5	obj	_	_	vi
+7	thì	thì	CCONJ	C	_	9	cc	_	_	vi
+8	được	được	VERB	V	_	9	aux:pass	_	_	vi
+9	tập huấn	tập huấn	VERB	V	_	0	root	_	_	vi
+10	về	về	ADP	E	_	11	case	_	_	vi
+11	chăn nuôi	chăn nuôi	NOUN	N	_	9	obl	_	SpaceAfter=No	vi
+12	.	.	PUNCT	.	_	9	punct	_	_	vi
+
+1	Và	Và	CCONJ	C	_	2	cc	_	_	vi
+2	còn	còn	VERB	V	_	0	root	_	_	vi
+3	một	một	NUM	M	NumType=Card	4	nummod	_	_	vi
+4	số	số	NOUN	N	_	2	obj	_	_	vi
+5	chi tiết	chi tiết	NOUN	N	_	4	compound	_	_	vi
+6	không	không	X	R	Polarity=Neg	7	advmod	_	_	vi
+7	rõ ràng	rõ ràng	ADJ	A	_	4	amod	_	_	vi
+8	về	về	ADP	E	_	9	case	_	_	vi
+9	gia đình	gia đình	NOUN	N	_	4	nmod	_	SpaceAfter=No	vi
+10	,	,	PUNCT	,	_	11	punct	_	_	vi
+11	quá khứ	quá khứ	NOUN	N	_	9	conj	_	_	vi
+12	của	của	ADP	E	_	13	case	_	_	vi
+13	Hải	Hải	NOUN	Np	_	9	nmod	_	SpaceAfter=No	vi
+14	.	.	PUNCT	.	_	2	punct	_	_	vi
+
+1	Không	Không	X	R	Polarity=Neg	3	advmod	_	_	vi
+2	được	được	VERB	V	_	3	aux:pass	_	_	vi
+3	ăn	ăn	VERB	V	_	5	advcl	_	_	vi
+4	nó	nó	PROPN	P	_	5	nsubj	_	_	vi
+5	đập	đập	VERB	V	_	0	root	_	_	vi
+6	phá	phá	VERB	V	_	5	xcomp	_	_	vi
+7	hết	hết	VERB	V	_	5	ccomp	_	SpaceAfter=No	vi
+8	,	,	PUNCT	,	_	9	punct	_	_	vi
+9	ném	ném	VERB	V	_	5	conj	_	_	vi
+10	gạch	gạch	NOUN	N	_	9	obj	_	SpaceAfter=No	vi
+11	,	,	PUNCT	,	_	12	punct	_	_	vi
+12	vứt	vứt	VERB	V	_	5	conj	_	_	vi
+13	rác	rác	NOUN	N	_	12	obj	_	_	vi
+14	khắp	khắp	ADJ	A	_	15	amod	_	_	vi
+15	nhà	nhà	NOUN	N	_	13	compound	_	_	vi
+16	rồi	rồi	CCONJ	C	_	17	cc	_	_	vi
+17	ném	ném	VERB	V	_	5	conj	_	_	vi
+18	qua	qua	ADP	E	_	20	case	_	_	vi
+19	cả	cả	PROPN	P	_	20	det	_	_	vi
+20	nhà	nhà	NOUN	N	_	17	obl	_	_	vi
+21	người	người	NOUN	N	_	20	compound	_	_	vi
+22	khác	khác	ADJ	A	_	21	amod	_	SpaceAfter=No	vi
+23	.	.	PUNCT	.	_	5	punct	_	_	vi
+
+1	cha	cha	NOUN	N	_	0	root	_	SpaceAfter=No	vi
+2	,	,	PUNCT	,	_	3	punct	_	_	vi
+3	con	con	NOUN	N	_	1	conj	_	_	vi
+4	và	và	SCONJ	CC	_	5	cc	_	_	vi
+5	nỗi	nỗi	NOUN	N	_	1	conj	_	_	vi
+6	đau	đau	VERB	V	_	5	xcomp	_	_	vi
+7	da cam	da cam	NOUN	N	_	5	compound	_	SpaceAfter=No	vi
+8	.	.	PUNCT	.	_	1	punct	_	_	vi
+
+1	quay	quay	VERB	V	_	5	advcl	_	_	vi
+2	vào	vào	ADP	E	_	3	case	_	_	vi
+3	trong	trong	NOUN	N	_	1	obl	_	_	vi
+4	ông	ông	NOUN	N	_	5	nsubj	_	_	vi
+5	kêu	kêu	VERB	V	_	0	root	_	SpaceAfter=No	vi
+6	:	:	PUNCT	:	_	5	punct	_	_	vi
+7	"	"	PUNCT	"	_	5	punct	_	SpaceAfter=No	vi
+8	Hạnh	Hạnh	NOUN	Np	_	10	vocative	_	SpaceAfter=No	vi
+9	,	,	PUNCT	,	_	10	punct	_	_	vi
+10	ra	ra	VERB	V	_	5	ccomp	_	_	vi
+11	chào	chào	VERB	V	_	10	xcomp	_	_	vi
+12	dì	dì	NOUN	N	_	11	obj	_	_	vi
+13	đi	đi	PART	T	_	11	discourse	_	_	vi
+14	con	con	NOUN	N	_	10	obj	_	SpaceAfter=No	vi
+15	!	!	PUNCT	!	_	5	punct	_	SpaceAfter=No	vi
+16	"	"	PUNCT	"	_	5	punct	_	SpaceAfter=No	vi
+17	.	.	PUNCT	.	_	5	punct	_	_	vi
+
+1	lũ	lũ	NOUN	Nc	_	2	compound	_	_	vi
+2	bạn	bạn	NOUN	N	_	6	nsubj	_	_	vi
+3	hảo hán	hảo hán	NOUN	N	_	2	compound	_	_	vi
+4	của	của	ADP	E	_	5	case	_	_	vi
+5	Tùng	Tùng	NOUN	Np	_	2	nmod	_	_	vi
+6	bỏ	bỏ	VERB	V	_	0	root	_	_	vi
+7	chạy	chạy	VERB	V	_	6	xcomp	_	_	vi
+8	hoặc	hoặc	SCONJ	CC	_	9	cc	_	_	vi
+9	câm như hến	câm như hến	X	X	_	6	conj	_	SpaceAfter=No	vi
+10	.	.	PUNCT	.	_	6	punct	_	_	vi
+
+1	Quang	Quang	NOUN	Np	_	2	nsubj	_	_	vi
+2	bảo	bảo	VERB	V	_	0	root	_	_	vi
+3	điều	điều	NOUN	N	_	5	nsubj	_	_	vi
+4	đó	đó	PROPN	P	_	3	det	_	_	vi
+5	giúp	giúp	VERB	V	_	2	ccomp	_	_	vi
+6	quang	quang	NOUN	Np	_	5	obj	_	_	vi
+7	là	là	AUX	V	_	10	cop	_	_	vi
+8	một	một	NUM	M	NumType=Card	10	nummod	_	_	vi
+9	trong	trong	ADP	E	_	10	case	_	_	vi
+10	số	số	NOUN	N	_	6	xcomp	_	_	vi
+11	nhiều	nhiều	ADJ	A	_	10	amod	_	_	vi
+12	đồng nghiệp	đồng nghiệp	NOUN	N	_	10	compound	_	_	vi
+13	vẫn	vẫn	X	R	_	14	advmod	_	_	vi
+14	vững vàng	vững vàng	ADJ	A	_	10	amod	_	_	vi
+15	với	với	ADP	E	_	16	case	_	_	vi
+16	nghề	nghề	NOUN	N	_	14	nmod	_	_	vi
+17	tuần tra	tuần tra	VERB	V	_	16	xcomp	_	_	vi
+18	giao thông	giao thông	NOUN	N	_	16	compound	_	SpaceAfter=No	vi
+19	.	.	PUNCT	.	_	2	punct	_	_	vi
+
+1	Nhiều	Nhiều	ADJ	A	_	2	amod	_	_	vi
+2	ý kiến	ý kiến	NOUN	N	_	3	nsubj	_	_	vi
+3	cho	cho	VERB	V	_	0	root	_	_	vi
+4	rằng	rằng	CCONJ	C	_	13	mark	_	_	vi
+5	những	những	DET	L	_	6	det	_	_	vi
+6	nguyên nhân	nguyên nhân	NOUN	N	_	13	nsubj	_	_	vi
+7	này	này	PROPN	P	_	6	det	_	_	vi
+8	không	không	X	R	Polarity=Neg	9	advmod	_	_	vi
+9	mới	mới	ADJ	A	_	13	xcomp	_	SpaceAfter=No	vi
+10	,	,	PUNCT	,	_	13	punct	_	_	vi
+11	không	không	X	R	Polarity=Neg	13	advmod	_	_	vi
+12	là	là	AUX	V	_	13	cop	_	_	vi
+13	nguyên nhân	nguyên nhân	NOUN	N	_	3	ccomp	_	_	vi
+14	gốc	gốc	NOUN	N	_	13	compound	_	_	vi
+15	làm	làm	VERB	V	_	13	xcomp	_	_	vi
+16	sụt giảm	sụt giảm	VERB	V	_	15	xcomp	_	_	vi
+17	kinh tế	kinh tế	NOUN	N	_	16	obj	_	_	vi
+18	TP	TP	NOUN	Ny	_	17	compound	_	SpaceAfter=No	vi
+19	.	.	PUNCT	.	_	3	punct	_	_	vi
+
+1	vấn đề	vấn đề	NOUN	N	_	5	nsubj	_	_	vi
+2	này	này	PROPN	P	_	1	det	_	_	vi
+3	sẽ	sẽ	X	R	_	5	advmod	_	_	vi
+4	được	được	VERB	V	_	5	aux:pass	_	_	vi
+5	quan tâm	quan tâm	VERB	V	_	0	root	_	_	vi
+6	như thế nào	như thế nào	X	X	_	5	dep	_	_	vi
+7	thưa	thưa	VERB	V	_	6	xcomp	_	_	vi
+8	ông	ông	NOUN	N	_	7	vocative	_	SpaceAfter=No	vi
+9	?	?	PUNCT	?	_	5	punct	_	_	vi
+
+1	cộng	cộng	VERB	V	_	17	advcl	_	_	vi
+2	với	với	ADP	E	_	3	case	_	_	vi
+3	cảnh	cảnh	NOUN	N	_	1	obl	_	_	vi
+4	sống	sống	NOUN	N	_	3	compound	_	_	vi
+5	tù túng	tù túng	ADJ	A	_	3	amod	_	SpaceAfter=No	vi
+6	,	,	PUNCT	,	_	7	punct	_	_	vi
+7	buồn tẻ	buồn tẻ	ADJ	A	_	5	conj	_	SpaceAfter=No	vi
+8	;	;	PUNCT	;	_	17	punct	_	_	vi
+9	và	và	SCONJ	CC	_	17	cc	_	_	vi
+10	có thể	có thể	X	R	_	17	aux	_	_	vi
+11	do	do	ADP	E	_	13	case	_	_	vi
+12	bạn bè	bạn bè	NOUN	N	_	13	nsubj	_	_	vi
+13	lôi kéo	lôi kéo	VERB	V	_	17	advcl	_	SpaceAfter=No	vi
+14	,	,	PUNCT	,	_	17	punct	_	_	vi
+15	Lan	Lan	NOUN	Np	_	17	nsubj	_	_	vi
+16	đã	đã	X	R	_	17	advmod	_	_	vi
+17	quay	quay	VERB	V	_	0	root	_	_	vi
+18	lại	lại	X	R	_	17	advmod	_	_	vi
+19	nghề	nghề	NOUN	N	_	17	obj	_	_	vi
+20	cũ	cũ	ADJ	A	_	19	amod	_	SpaceAfter=No	vi
+21	.	.	PUNCT	.	_	17	punct	_	_	vi
+
+1	Nhưng	Nhưng	CCONJ	C	_	5	cc	_	_	vi
+2	từ	từ	ADP	E	_	3	case	_	_	vi
+3	năm	năm	NOUN	N	_	5	obl	_	_	vi
+4	1990	1990	NUM	M	NumType=Card	3	nummod	_	_	vi
+5	bắt đầu	bắt đầu	VERB	V	_	0	root	_	_	vi
+6	có	có	VERB	V	_	5	xcomp	_	_	vi
+7	chuyện	chuyện	NOUN	N	_	5	obj	_	_	vi
+8	cho	cho	VERB	V	_	7	xcomp	_	_	vi
+9	dân	dân	NOUN	N	_	8	obj	_	_	vi
+10	vay	vay	VERB	V	_	9	xcomp	_	_	vi
+11	vốn	vốn	NOUN	N	_	10	obj	_	SpaceAfter=No	vi
+12	.	.	PUNCT	.	_	5	punct	_	_	vi
+
+1	Năm	Năm	NUM	M	NumType=Card	2	nummod	_	_	vi
+2	thám tử	thám tử	NOUN	N	_	4	nsubj	_	_	vi
+3	là	là	AUX	V	_	4	cop	_	_	vi
+4	bình	bình	NOUN	Np	_	0	root	_	SpaceAfter=No	vi
+5	,	,	PUNCT	,	_	10	punct	_	_	vi
+6	Hậu	Hậu	NOUN	Np	_	4	appos	_	SpaceAfter=No	vi
+7	,	,	PUNCT	,	_	10	punct	_	_	vi
+8	Tiến	Tiến	NOUN	Np	_	4	appos	_	SpaceAfter=No	vi
+9	,	,	PUNCT	,	_	10	punct	_	_	vi
+10	Hải	Hải	NOUN	Np	_	4	conj	_	SpaceAfter=No	vi
+11	,	,	PUNCT	,	_	12	punct	_	_	vi
+12	Hoa	Hoa	NOUN	Np	_	4	conj	_	_	vi
+13	được	được	VERB	V	_	14	aux:pass	_	_	vi
+14	giao	giao	VERB	V	_	4	aux:pass	_	_	vi
+15	nhiệm vụ	nhiệm vụ	NOUN	N	_	14	obj	_	SpaceAfter=No	vi
+16	.	.	PUNCT	.	_	4	punct	_	_	vi
+
+1	Ba	Ba	NUM	M	NumType=Card	2	nummod	_	_	vi
+2	phương án	phương án	NOUN	N	_	4	nsubj	_	_	vi
+3	được	được	VERB	V	_	4	aux:pass	_	_	vi
+4	hình thành	hình thành	VERB	V	_	0	root	_	SpaceAfter=No	vi
+5	.	.	PUNCT	.	_	4	punct	_	_	vi
+
+1	"	"	PUNCT	"	_	6	punct	_	SpaceAfter=No	vi
+2	Hằng	Hằng	X	R	_	3	advmod	_	_	vi
+3	ngày	ngày	NOUN	N	_	6	obl	_	_	vi
+4	tôi	tôi	PROPN	P	_	6	nsubj	_	_	vi
+5	vẫn	vẫn	X	R	_	6	advmod	_	_	vi
+6	vào	vào	VERB	V	_	0	root	_	_	vi
+7	thắp	thắp	VERB	V	_	6	xcomp	_	_	vi
+8	hương	hương	NOUN	N	_	7	obj	_	SpaceAfter=No	vi
+9	,	,	PUNCT	,	_	10	punct	_	_	vi
+10	dọn dẹp	dọn dẹp	VERB	V	_	7	conj	_	SpaceAfter=No	vi
+11	.	.	PUNCT	.	_	6	punct	_	_	vi
+
+1	Ngược lại	Ngược lại	X	X	_	8	dep	_	SpaceAfter=No	vi
+2	,	,	PUNCT	,	_	4	punct	_	_	vi
+3	không	không	X	R	Polarity=Neg	4	advmod	_	_	vi
+4	có	có	VERB	V	_	0	root	_	_	vi
+5	việc	việc	NOUN	N	_	4	obj	_	_	vi
+6	thì	thì	CCONJ	C	_	8	cc	_	_	vi
+7	chúng tôi	chúng tôi	PROPN	P	_	8	nsubj	_	_	vi
+8	về	về	VERB	V	_	4	conj	_	SpaceAfter=No	vi
+9	,	,	PUNCT	,	_	12	punct	_	_	vi
+10	không	không	X	R	Polarity=Neg	12	advmod	_	_	vi
+11	phải	phải	VERB	V	_	12	aux	_	_	vi
+12	tự nguyện	tự nguyện	VERB	V	_	4	conj	_	_	vi
+13	xin	xin	VERB	V	_	12	xcomp	_	_	vi
+14	về	về	X	R	_	13	advmod	_	_	vi
+15	để	để	ADP	E	_	13	case	_	_	vi
+16	công ty	công ty	NOUN	N	_	17	nsubj	_	_	vi
+17	phủi	phủi	VERB	V	_	15	mark	_	_	vi
+18	bỏ	bỏ	VERB	V	_	17	xcomp	_	_	vi
+19	mọi	mọi	DET	L	_	20	det	_	_	vi
+20	trách nhiệm	trách nhiệm	NOUN	N	_	17	obj	_	_	vi
+21	sau	sau	ADP	E	_	22	case	_	_	vi
+22	đó	đó	PROPN	P	_	20	nmod	_	SpaceAfter=No	vi
+23	.	.	PUNCT	.	_	4	punct	_	_	vi
+
+1	nơi	nơi	NOUN	N	_	0	root	_	_	vi
+2	đây	đây	PROPN	P	_	1	det	_	_	vi
+3	cũng	cũng	X	R	_	5	advmod	_	_	vi
+4	chỉ	chỉ	X	R	_	5	advmod	_	_	vi
+5	rừng	rừng	NOUN	N	_	1	compound	_	_	vi
+6	và	và	SCONJ	CC	_	7	cc	_	_	vi
+7	rừng	rừng	NOUN	N	_	5	conj	_	SpaceAfter=No	vi
+8	,	,	PUNCT	,	_	11	punct	_	_	vi
+9	không	không	X	R	Polarity=Neg	11	advmod	_	_	vi
+10	một	một	NUM	M	NumType=Card	11	nummod	_	_	vi
+11	bóng	bóng	NOUN	N	_	5	conj	_	_	vi
+12	nhà	nhà	NOUN	N	_	11	compound	_	SpaceAfter=No	vi
+13	.	.	PUNCT	.	_	1	punct	_	_	vi
+
+1	Thọ	Thọ	NOUN	Np	_	3	nsubj	_	_	vi
+2	quá	quá	X	R	_	3	advmod	_	_	vi
+3	sốt ruột	sốt ruột	VERB	V	_	0	root	_	SpaceAfter=No	vi
+4	.	.	PUNCT	.	_	3	punct	_	_	vi
+
+1	"	"	PUNCT	"	_	8	punct	_	SpaceAfter=No	vi
+2	Mình	Mình	PROPN	P	_	3	nsubj	_	_	vi
+3	làm	làm	VERB	V	_	8	csubj	_	_	vi
+4	cái	cái	PART	T	_	5	discourse	_	_	vi
+5	gì	gì	PROPN	P	_	3	obj	_	_	vi
+6	không	không	X	R	Polarity=Neg	8	advmod	_	_	vi
+7	bao giờ	bao giờ	PROPN	P	_	8	det	_	_	vi
+8	hối hận	hối hận	VERB	V	_	0	root	_	SpaceAfter=No	vi
+9	,	,	PUNCT	,	_	10	punct	_	_	vi
+10	trừ	trừ	VERB	V	_	8	conj	_	_	vi
+11	một	một	NUM	M	NumType=Card	12	nummod	_	_	vi
+12	lần	lần	NOUN	N	_	10	obj	_	_	vi
+13	duy nhất	duy nhất	ADJ	A	_	12	amod	_	_	vi
+14	là	là	CCONJ	C	_	15	cc	_	_	vi
+15	chuyện	chuyện	NOUN	N	_	12	conj	_	_	vi
+16	lấy	lấy	VERB	V	_	15	xcomp	_	_	vi
+17	vợ	vợ	NOUN	N	_	16	obj	_	_	vi
+18	đẻ	đẻ	VERB	V	_	16	ccomp	_	_	vi
+19	con	con	NOUN	N	_	18	obj	_	SpaceAfter=No	vi
+20	...	...	PUNCT	...	_	8	punct	_	SpaceAfter=No	vi
+21	"	"	PUNCT	"	_	8	punct	_	SpaceAfter=No	vi
+22	.	.	PUNCT	.	_	8	punct	_	_	vi
+
+1	Nhu	Nhu	NOUN	Np	_	2	nsubj	_	_	vi
+2	kể	kể	VERB	V	_	0	root	_	SpaceAfter=No	vi
+3	:	:	PUNCT	:	_	2	punct	_	_	vi
+4	sau	sau	ADP	E	_	10	nmod	_	_	vi
+5	sự cố	sự cố	NOUN	N	_	4	nmod	_	_	vi
+6	đó	đó	PROPN	P	_	5	det	_	_	vi
+7	cuộc sống	cuộc sống	NOUN	N	_	10	nsubj	_	_	vi
+8	gia đình	gia đình	NOUN	N	_	7	compound	_	_	vi
+9	vẫn	vẫn	X	R	_	10	advmod	_	_	vi
+10	bình yên	bình yên	ADJ	A	_	2	ccomp	_	SpaceAfter=No	vi
+11	.	.	PUNCT	.	_	2	punct	_	_	vi
+
+1	vị	vị	NOUN	Nc	_	2	compound	_	_	vi
+2	nhân chứng	nhân chứng	NOUN	N	_	5	nsubj	_	_	vi
+3	đặc biệt	đặc biệt	ADJ	A	_	2	amod	_	_	vi
+4	này	này	PROPN	P	_	3	det	_	_	vi
+5	vội vã	vội vã	ADJ	A	_	0	root	_	_	vi
+6	lên	lên	VERB	V	_	5	xcomp	_	_	vi
+7	cầu thang	cầu thang	NOUN	N	_	5	obj	_	_	vi
+8	và	và	SCONJ	CC	_	9	cc	_	_	vi
+9	đi	đi	VERB	V	_	5	conj	_	_	vi
+10	vào	vào	VERB	V	_	9	xcomp	_	_	vi
+11	bên	bên	NOUN	N	_	9	obj	_	_	vi
+12	trong	trong	NOUN	N	_	11	compound	_	_	vi
+13	phòng	phòng	NOUN	N	_	11	compound	_	_	vi
+14	xử	xử	VERB	V	_	13	xcomp	_	_	vi
+15	rất	rất	X	R	_	16	advmod	_	_	vi
+16	nhanh	nhanh	ADJ	A	_	9	xcomp	_	_	vi
+17	để	để	ADP	E	_	18	case	_	_	vi
+18	tránh	tránh	VERB	V	_	5	mark	_	_	vi
+19	ống kính	ống kính	NOUN	N	_	18	obj	_	_	vi
+20	máy ảnh	máy ảnh	NOUN	N	_	19	compound	_	_	vi
+21	của	của	ADP	E	_	23	case	_	_	vi
+22	các	các	DET	L	_	23	det	_	_	vi
+23	phóng viên	phóng viên	NOUN	N	_	19	nmod	_	SpaceAfter=No	vi
+24	.	.	PUNCT	.	_	5	punct	_	_	vi
+
+1	về	về	ADP	E	_	2	case	_	_	vi
+2	xây dựng	xây dựng	VERB	V	_	5	obl	_	_	vi
+3	Đảng	Đảng	NOUN	Np	_	2	obj	_	SpaceAfter=No	vi
+4	:	:	PUNCT	:	_	5	punct	_	_	vi
+5	tiếp tục	tiếp tục	VERB	V	_	0	root	_	_	vi
+6	chỉ đạo	chỉ đạo	VERB	V	_	5	xcomp	_	_	vi
+7	mạnh mẽ	mạnh mẽ	ADJ	A	_	5	xcomp	_	SpaceAfter=No	vi
+8	,	,	PUNCT	,	_	9	punct	_	_	vi
+9	có	có	VERB	V	_	5	conj	_	_	vi
+10	hiệu quả	hiệu quả	NOUN	N	_	9	obj	_	_	vi
+11	cuộc	cuộc	NOUN	Nc	_	5	obj	_	_	vi
+12	vận động	vận động	VERB	V	_	11	xcomp	_	_	vi
+13	xây dựng	xây dựng	VERB	V	_	11	xcomp	_	_	vi
+14	chỉnh đốn	chỉnh đốn	VERB	V	_	13	xcomp	_	_	vi
+15	Đảng	Đảng	NOUN	Np	_	14	obj	_	_	vi
+16	theo	theo	ADP	E	_	17	case	_	_	vi
+17	tinh thần	tinh thần	NOUN	N	_	14	advcl	_	_	vi
+18	nghị quyết	nghị quyết	NOUN	N	_	17	compound	_	_	vi
+19	trung ương	trung ương	NOUN	N	_	18	compound	_	_	vi
+20	6	6	NUM	M	NumType=Card	19	nummod	_	_	vi
+21	LBKT	LBKT	PUNCT	LBKT	_	19	punct	_	_	vi
+22	lần	lần	NOUN	N	_	19	appos	_	_	vi
+23	2	2	NUM	M	NumType=Card	22	nummod	_	_	vi
+24	RBKT	RBKT	PUNCT	RBKT	_	19	punct	_	SpaceAfter=No	vi
+25	.	.	PUNCT	.	_	5	punct	_	_	vi
+
+1	Rất	Rất	X	R	_	2	advmod	_	_	vi
+2	thân	thân	ADJ	A	_	0	root	_	_	vi
+3	nhau	nhau	NOUN	N	_	2	obj	_	SpaceAfter=No	vi
+4	,	,	PUNCT	,	_	2	punct	_	_	vi
+5	Hải	Hải	NOUN	Np	_	7	nsubj	_	_	vi
+6	thường	thường	X	R	_	7	advmod	_	_	vi
+7	ăn	ăn	VERB	V	_	2	parataxis	_	_	vi
+8	ngủ	ngủ	VERB	V	_	7	xcomp	_	_	vi
+9	ở	ở	ADP	E	_	10	case	_	_	vi
+10	nhà	nhà	NOUN	N	_	7	obl	_	_	vi
+11	Tùng	Tùng	NOUN	Np	_	10	compound	_	_	vi
+12	nhưng	nhưng	CCONJ	C	_	7	cc	_	_	vi
+13	Tùng	Tùng	NOUN	Np	_	15	nsubj	_	_	vi
+14	không	không	X	R	Polarity=Neg	15	advmod	_	_	vi
+15	thấy	thấy	VERB	V	_	7	parataxis	_	_	vi
+16	Hải	Hải	NOUN	Np	_	17	nsubj	_	_	vi
+17	mời	mời	VERB	V	_	15	ccomp	_	_	vi
+18	đến	đến	ADP	E	_	17	obj	_	_	vi
+19	nhà	nhà	NOUN	N	_	18	nmod	_	_	vi
+20	bao giờ	bao giờ	PROPN	P	_	17	obj	_	SpaceAfter=No	vi
+21	.	.	PUNCT	.	_	2	punct	_	_	vi
+
+1	22	22	NUM	M	NumType=Card	2	nummod	_	_	vi
+2	g	g	NOUN	Ny	_	11	obl	_	_	vi
+3	40	40	NUM	M	NumType=Card	2	nummod	_	_	vi
+4	đêm	đêm	NOUN	N	_	2	compound	_	_	vi
+5	5	5	NUM	M	NumType=Card	4	nummod	_	_	vi
+6	-	-	PUNCT	-	_	7	punct	_	_	vi
+7	4	4	NUM	M	NumType=Card	4	conj	_	SpaceAfter=No	vi
+8	.	.	PUNCT	.	_	11	punct	_	_	vi
+9	chúng tôi	chúng tôi	PROPN	P	_	11	nsubj	_	_	vi
+10	lại	lại	X	R	_	11	advmod	_	_	vi
+11	lẩn	lẩn	VERB	V	_	0	root	_	_	vi
+12	vào	vào	ADP	E	_	15	case	_	_	vi
+13	một	một	NUM	M	NumType=Card	15	nummod	_	_	vi
+14	khu	khu	NOUN	Nc	_	15	compound	_	_	vi
+15	rừng	rừng	NOUN	N	_	11	advcl	_	_	vi
+16	cao su	cao su	NOUN	N	_	15	compound	_	_	vi
+17	kế tiếp	kế tiếp	VERB	V	_	15	xcomp	_	SpaceAfter=No	vi
+18	.	.	PUNCT	.	_	11	punct	_	_	vi
+
+1	Đó	Đó	PROPN	P	_	4	nsubj	_	_	vi
+2	là	là	AUX	V	_	4	cop	_	_	vi
+3	chưa	chưa	X	R	_	4	advmod	_	_	vi
+4	kể	kể	VERB	V	_	0	root	_	_	vi
+5	việc	việc	NOUN	N	_	4	obj	_	_	vi
+6	Liên	Liên	NOUN	Np	_	8	nsubj	_	_	vi
+7	có thể	có thể	X	R	_	8	aux	_	_	vi
+8	sụp đổ	sụp đổ	VERB	V	_	5	ccomp	_	_	vi
+9	đến	đến	ADP	E	_	10	case	_	_	vi
+10	mức	mức	NOUN	N	_	8	obl	_	_	vi
+11	tự vẫn	tự vẫn	VERB	V	_	10	xcomp	_	_	vi
+12	hay	hay	CCONJ	C	_	13	cc	_	_	vi
+13	bỏ	bỏ	VERB	V	_	11	conj	_	_	vi
+14	nhà	nhà	NOUN	N	_	13	obj	_	SpaceAfter=No	vi
+15	,	,	PUNCT	,	_	16	punct	_	_	vi
+16	bỏ	bỏ	VERB	V	_	13	conj	_	_	vi
+17	việc	việc	NOUN	N	_	16	obj	_	SpaceAfter=No	vi
+18	.	.	PUNCT	.	_	4	punct	_	_	vi
+
+1	Những	Những	DET	L	_	2	det	_	_	vi
+2	ngày tháng	ngày tháng	NOUN	N	_	6	nsubj	_	_	vi
+3	gian truân	gian truân	ADJ	A	_	2	amod	_	_	vi
+4	nhất	nhất	X	R	_	3	advmod	_	_	vi
+5	đã	đã	X	R	_	6	advmod	_	_	vi
+6	qua	qua	VERB	V	_	0	root	_	SpaceAfter=No	vi
+7	,	,	PUNCT	,	_	6	punct	_	_	vi
+8	nay	nay	PROPN	P	_	11	obl	_	_	vi
+9	bà	bà	NOUN	N	_	11	nsubj	_	_	vi
+10	không	không	X	R	Polarity=Neg	11	advmod	_	_	vi
+11	muốn	muốn	VERB	V	_	6	parataxis	_	_	vi
+12	đòi hỏi	đòi hỏi	VERB	V	_	11	xcomp	_	_	vi
+13	hay	hay	CCONJ	C	_	14	cc	_	_	vi
+14	trách cứ	trách cứ	VERB	V	_	12	conj	_	_	vi
+15	gì	gì	PROPN	P	_	12	obj	_	_	vi
+16	ông	ông	PROPN	P	_	12	obj	_	SpaceAfter=No	vi
+17	.	.	PUNCT	.	_	6	punct	_	_	vi
+
+1	hội	hội	NOUN	N	_	6	nsubj	_	_	vi
+2	Người	Người	NOUN	N	_	1	compound	_	_	vi
+3	Việt	Việt	NOUN	Np	_	1	compound	_	_	vi
+4	tỉnh	tỉnh	NOUN	N	_	1	compound	_	_	vi
+5	Champasak	Champasak	NOUN	Np	_	4	compound	_	_	vi
+6	hoạt động	hoạt động	VERB	V	_	0	root	_	_	vi
+7	khá	khá	X	R	_	6	advmod	_	_	vi
+8	mạnh	mạnh	ADJ	A	_	6	xcomp	_	_	vi
+9	so	so	VERB	V	_	6	ccomp	_	_	vi
+10	với	với	ADP	E	_	11	case	_	_	vi
+11	hội	hội	NOUN	N	_	9	obl	_	_	vi
+12	Người	Người	NOUN	N	_	11	compound	_	_	vi
+13	Việt	Việt	NOUN	Np	_	11	compound	_	_	vi
+14	ở	ở	ADP	E	_	16	case	_	_	vi
+15	các	các	DET	L	_	16	det	_	_	vi
+16	tỉnh	tỉnh	NOUN	N	_	11	nmod	_	_	vi
+17	khác	khác	ADJ	A	_	16	amod	_	_	vi
+18	trên	trên	NOUN	N	_	16	compound	_	_	vi
+19	đất nước	đất nước	NOUN	N	_	18	compound	_	_	vi
+20	Lào	Lào	NOUN	Np	_	19	compound	_	SpaceAfter=No	vi
+21	.	.	PUNCT	.	_	6	punct	_	_	vi
+
+1	thám tử	thám tử	NOUN	N	_	3	nsubj	_	_	vi
+2	Hào	Hào	NOUN	Np	_	1	compound	_	_	vi
+3	xem	xem	VERB	V	_	0	root	_	_	vi
+4	hồ sơ	hồ sơ	NOUN	N	_	3	obj	_	_	vi
+5	vụ	vụ	NOUN	Nc	_	6	compound	_	_	vi
+6	việc	việc	NOUN	N	_	4	compound	_	_	vi
+7	và	và	SCONJ	CC	_	8	cc	_	_	vi
+8	đặc biệt	đặc biệt	ADJ	A	_	3	conj	_	_	vi
+9	chú ý	chú ý	VERB	V	_	8	xcomp	_	_	vi
+10	đến	đến	ADP	E	_	12	case	_	_	vi
+11	những	những	DET	L	_	12	det	_	_	vi
+12	thông tin	thông tin	NOUN	N	_	8	nmod	_	_	vi
+13	về	về	ADP	E	_	15	case	_	_	vi
+14	lá	lá	NOUN	Nc	_	15	compound	_	_	vi
+15	đơn	đơn	NOUN	N	_	12	nmod	_	_	vi
+16	mà	mà	CCONJ	C	_	18	cc	_	_	vi
+17	James	James	NOUN	Np	_	18	nsubj	_	_	vi
+18	cho	cho	VERB	V	_	12	ccomp	_	_	vi
+19	biết	biết	VERB	V	_	18	xcomp	_	SpaceAfter=No	vi
+20	.	.	PUNCT	.	_	3	punct	_	_	vi
+
+1	Hoặc	Hoặc	CCONJ	C	_	5	cc	_	_	vi
+2	ít ra	ít ra	X	X	_	5	dep	_	_	vi
+3	Hùng	Hùng	NOUN	Np	_	5	nsubj	_	_	vi
+4	có thể	có thể	X	R	_	5	aux	_	_	vi
+5	đo	đo	VERB	V	_	0	root	_	_	vi
+6	được	được	X	R	_	5	advmod	_	_	vi
+7	phản ứng	phản ứng	NOUN	N	_	5	obj	_	_	vi
+8	nào	nào	PROPN	P	_	7	det	_	_	vi
+9	đó	đó	PROPN	P	_	7	det	_	_	vi
+10	của	của	ADP	E	_	11	case	_	_	vi
+11	gia đình	gia đình	NOUN	N	_	7	nmod	_	_	vi
+12	này	này	PROPN	P	_	11	det	_	SpaceAfter=No	vi
+13	.	.	PUNCT	.	_	5	punct	_	_	vi
+
+1	Tùng	Tùng	NOUN	Np	_	2	nsubj	_	_	vi
+2	ok	ok	VERB	VP	_	0	root	_	_	vi
+3	-	-	PUNCT	-	_	2	punct	_	_	vi
+4	đánh bạn	đánh bạn	VERB	V	_	10	csubj	_	_	vi
+5	với	với	ADP	E	_	4	obj	_	_	vi
+6	thằng	thằng	PROPN	P	_	5	nmod	_	_	vi
+7	nào	nào	PROPN	P	_	6	det	_	_	vi
+8	cũng	cũng	X	R	_	10	advmod	_	_	vi
+9	được	được	VERB	V	_	10	aux:pass	_	SpaceAfter=No	vi
+10	,	,	PUNCT	,	_	2	aux:pass	_	_	vi
+11	có	có	VERB	V	_	13	csubj	_	_	vi
+12	xe	xe	NOUN	N	_	11	obj	_	_	vi
+13	tính	tính	VERB	V	_	10	conj	_	_	vi
+14	sau	sau	ADJ	A	_	13	xcomp	_	SpaceAfter=No	vi
+15	.	.	PUNCT	.	_	2	punct	_	_	vi
+
+1	Mọi	Mọi	DET	L	_	2	det	_	_	vi
+2	lời lẽ	lời lẽ	NOUN	N	_	0	root	_	_	vi
+3	của	của	ADP	E	_	4	case	_	_	vi
+4	Toàn	Toàn	NOUN	Np	_	2	nmod	_	_	vi
+5	dường như	dường như	X	R	_	7	advmod	_	_	vi
+6	không	không	X	R	Polarity=Neg	7	advmod	_	_	vi
+7	ý nghĩa	ý nghĩa	NOUN	N	_	2	compound	_	SpaceAfter=No	vi
+8	.	.	PUNCT	.	_	2	punct	_	_	vi
+
+1	"	"	PUNCT	"	_	6	punct	_	SpaceAfter=No	vi
+2	Tại sao	Tại sao	X	X	_	6	dep	_	_	vi
+3	bà	bà	NOUN	N	_	6	nsubj	_	_	vi
+4	ta	ta	PROPN	P	_	3	det	_	_	vi
+5	lại	lại	X	R	_	6	advmod	_	_	vi
+6	thích	thích	VERB	V	_	0	root	_	_	vi
+7	nhà	nhà	NOUN	N	_	6	obj	_	_	vi
+8	của	của	ADP	E	_	9	case	_	_	vi
+9	ông	ông	PROPN	P	_	7	nmod	_	SpaceAfter=No	vi
+10	?	?	PUNCT	?	_	6	punct	_	SpaceAfter=No	vi
+11	"	"	PUNCT	"	_	6	punct	_	SpaceAfter=No	vi
+12	.	.	PUNCT	.	_	6	punct	_	_	vi
+
+1	bản thân	bản thân	NOUN	N	_	6	nsubj	_	_	vi
+2	ông bà	ông bà	NOUN	N	_	1	compound	_	_	vi
+3	cũng	cũng	X	R	_	6	advmod	_	_	vi
+4	đã	đã	X	R	_	6	advmod	_	_	vi
+5	từng	từng	X	R	_	6	advmod	_	_	vi
+6	bàn	bàn	VERB	V	_	0	root	_	_	vi
+7	đến	đến	ADP	E	_	8	case	_	_	vi
+8	chuyện	chuyện	NOUN	N	_	6	obl	_	_	vi
+9	này	này	PROPN	P	_	8	det	_	_	vi
+10	vài	vài	DET	L	_	11	det	_	_	vi
+11	lần	lần	NOUN	N	_	6	obj	_	SpaceAfter=No	vi
+12	.	.	PUNCT	.	_	6	punct	_	_	vi
+
+1	James	James	NOUN	Np	_	2	nsubj	_	_	vi
+2	quyết định	quyết định	VERB	V	_	0	root	_	_	vi
+3	tìm	tìm	VERB	V	_	2	xcomp	_	_	vi
+4	đến	đến	ADP	E	_	6	case	_	_	vi
+5	các	các	DET	L	_	6	det	_	_	vi
+6	thám tử	thám tử	NOUN	N	_	3	obl	_	SpaceAfter=No	vi
+7	.	.	PUNCT	.	_	2	punct	_	_	vi
+
+1	năm	năm	NOUN	N	_	5	obl	_	_	vi
+2	1956	1956	NUM	M	NumType=Card	3	compound	_	_	vi
+3	hai	hai	NUM	M	NumType=Card	4	nummod	_	_	vi
+4	người	người	NOUN	N	_	5	nsubj	_	_	vi
+5	có	có	VERB	V	_	0	root	_	_	vi
+6	cơ hội	cơ hội	NOUN	N	_	5	obj	_	_	vi
+7	đến	đến	VERB	V	_	6	xcomp	_	_	vi
+8	VN	VN	NOUN	Ny	_	7	obj	_	_	vi
+9	trong	trong	ADP	E	_	13	case	_	_	vi
+10	đoàn	đoàn	NOUN	Nc	_	13	compound	_	_	vi
+11	thanh niên	thanh niên	NOUN	N	_	12	compound	_	_	vi
+12	cộng sản	cộng sản	ADJ	A	_	13	amod	_	_	vi
+13	Pháp	Pháp	NOUN	Np	_	7	obl	_	_	vi
+14	được	được	VERB	V	_	16	aux:pass	_	_	vi
+15	Bác Hồ	Bác Hồ	NOUN	Np	_	16	nsubj	_	_	vi
+16	tiếp	tiếp	VERB	V	_	13	xcomp	_	SpaceAfter=No	vi
+17	.	.	PUNCT	.	_	5	punct	_	_	vi
+
+1	hôm	hôm	NOUN	N	_	11	obl	_	_	vi
+2	Tùng	Tùng	NOUN	Np	_	3	nsubj	_	_	vi
+3	nhận	nhận	VERB	V	_	1	ccomp	_	_	vi
+4	giấy tờ	giấy tờ	NOUN	N	_	3	obj	_	_	vi
+5	xe	xe	NOUN	N	_	4	compound	_	_	vi
+6	mẹ	mẹ	NOUN	N	_	7	nsubj	_	_	vi
+7	trao	trao	VERB	V	_	4	ccomp	_	SpaceAfter=No	vi
+8	,	,	PUNCT	,	_	11	punct	_	_	vi
+9	công ty	công ty	NOUN	N	_	11	nsubj	_	_	vi
+10	thám tử	thám tử	NOUN	N	_	9	compound	_	_	vi
+11	lập	lập	VERB	V	_	0	root	_	_	vi
+12	một	một	NUM	M	NumType=Card	13	nummod	_	_	vi
+13	kế hoạch	kế hoạch	NOUN	N	_	11	obj	_	_	vi
+14	công phu	công phu	ADJ	A	_	13	amod	_	_	vi
+15	với	với	ADP	E	_	17	case	_	_	vi
+16	sáu	sáu	NUM	M	NumType=Card	17	nummod	_	_	vi
+17	vai diễn	vai diễn	NOUN	N	_	13	nmod	_	_	vi
+18	đón	đón	VERB	V	_	17	xcomp	_	_	vi
+19	tại	tại	ADP	E	_	20	case	_	_	vi
+20	đầu	đầu	NOUN	N	_	18	obl	_	_	vi
+21	đường	đường	NOUN	N	_	23	nsubj	_	_	vi
+22	Thanh Niên	Thanh Niên	NOUN	Np	_	21	compound	_	_	vi
+23	cắt	cắt	VERB	V	_	20	ccomp	_	_	vi
+24	Yên Phụ	Yên Phụ	NOUN	Np	_	23	dep	_	SpaceAfter=No	vi
+25	.	.	PUNCT	.	_	11	punct	_	_	vi
+
+1	Tùng	Tùng	NOUN	Np	_	0	root	_	_	vi
+2	như	như	ADJ	A	_	1	amod	_	_	vi
+3	vén	vén	VERB	V	_	2	xcomp	_	_	vi
+4	mây	mây	NOUN	N	_	3	obj	_	_	vi
+5	thấy	thấy	VERB	V	_	3	ccomp	_	_	vi
+6	mặt trời	mặt trời	NOUN	N	_	5	obj	_	SpaceAfter=No	vi
+7	.	.	PUNCT	.	_	1	punct	_	_	vi
+
+1	Ba	Ba	NUM	M	NumType=Card	2	nummod	_	_	vi
+2	thám tử	thám tử	NOUN	N	_	9	nsubj	_	SpaceAfter=No	vi
+3	:	:	PUNCT	:	_	2	punct	_	_	vi
+4	bằng	bằng	NOUN	Np	_	2	compound	_	SpaceAfter=No	vi
+5	,	,	PUNCT	,	_	6	punct	_	_	vi
+6	Khoa	Khoa	NOUN	Np	_	4	conj	_	SpaceAfter=No	vi
+7	,	,	PUNCT	,	_	8	punct	_	_	vi
+8	Minh	Minh	NOUN	Np	_	4	conj	_	_	vi
+9	nhận	nhận	VERB	V	_	0	root	_	_	vi
+10	nhiệm vụ	nhiệm vụ	NOUN	N	_	9	obj	_	_	vi
+11	vào	vào	VERB	V	_	9	ccomp	_	_	vi
+12	TP.HCM	TP.HCM	NOUN	Ny	_	11	obj	_	_	vi
+13	xác minh	xác minh	VERB	V	_	11	ccomp	_	_	vi
+14	cái	cái	NOUN	Nc	_	13	obj	_	_	vi
+15	chết	chết	VERB	V	_	14	xcomp	_	_	vi
+16	của	của	ADP	E	_	18	case	_	_	vi
+17	bà	bà	NOUN	Nc	_	18	compound	_	_	vi
+18	Sinh	Sinh	NOUN	Np	_	14	nmod	_	SpaceAfter=No	vi
+19	.	.	PUNCT	.	_	9	punct	_	_	vi
+
+1	bước	bước	VERB	V	_	0	root	_	_	vi
+2	vào	vào	X	R	_	1	advmod	_	_	vi
+3	đầu	đầu	NOUN	N	_	1	obj	_	_	vi
+4	ngõ	ngõ	NOUN	N	_	3	compound	_	SpaceAfter=No	vi
+5	,	,	PUNCT	,	_	6	punct	_	_	vi
+6	nhà	nhà	NOUN	N	_	3	conj	_	_	vi
+7	cô	cô	NOUN	Nc	_	6	compound	_	_	vi
+8	Cúc	Cúc	NOUN	Np	_	6	compound	_	_	vi
+9	phơi	phơi	VERB	V	_	3	conj	_	_	vi
+10	đầy	đầy	ADJ	A	_	11	amod	_	_	vi
+11	bánh tráng	bánh tráng	NOUN	N	_	9	obj	_	_	vi
+12	phía	phía	NOUN	N	_	11	compound	_	_	vi
+13	trước	trước	NOUN	N	_	12	compound	_	SpaceAfter=No	vi
+14	.	.	PUNCT	.	_	1	punct	_	_	vi
+
+1	Long	Long	NOUN	Np	_	3	nsubj	_	_	vi
+2	đã	đã	X	R	_	3	advmod	_	_	vi
+3	thừa nhận	thừa nhận	VERB	V	_	0	root	_	_	vi
+4	với	với	ADP	E	_	5	case	_	_	vi
+5	lãnh đạo	lãnh đạo	NOUN	N	_	3	obl	_	_	vi
+6	hãng	hãng	NOUN	N	_	5	compound	_	_	vi
+7	những	những	DET	L	_	8	det	_	_	vi
+8	điều	điều	NOUN	N	_	3	obj	_	_	vi
+9	đơm đặt	đơm đặt	VERB	V	_	8	xcomp	_	_	vi
+10	của	của	ADP	E	_	11	case	_	_	vi
+11	mình	mình	PROPN	P	_	9	obl	_	SpaceAfter=No	vi
+12	.	.	PUNCT	.	_	3	punct	_	_	vi
+
+1	cuộc	cuộc	NOUN	Nc	_	2	compound	_	_	vi
+2	thứ	thứ	NOUN	N	_	4	nsubj	_	_	vi
+3	hai	hai	NUM	M	NumType=Card	2	nummod	_	_	vi
+4	gọi	gọi	VERB	V	_	0	root	_	_	vi
+5	39	39	NUM	M	NumType=Card	6	nummod	_	_	vi
+6	giây	giây	NOUN	Nu	_	4	obj	_	SpaceAfter=No	vi
+7	,	,	PUNCT	,	_	8	punct	_	_	vi
+8	vừa vặn	vừa vặn	ADJ	A	_	4	conj	_	_	vi
+9	thời gian	thời gian	NOUN	N	_	8	obj	_	_	vi
+10	chuyển	chuyển	VERB	V	_	9	xcomp	_	_	vi
+11	một	một	NUM	M	NumType=Card	12	nummod	_	_	vi
+12	trang	trang	NOUN	Nc	_	10	obj	_	_	vi
+13	fax	fax	NOUN	Nb	_	12	compound	_	SpaceAfter=No	vi
+14	.	.	PUNCT	.	_	4	punct	_	_	vi
+
+1	buông	buông	VERB	V	_	6	advcl	_	_	vi
+2	súng	súng	NOUN	N	_	1	obj	_	SpaceAfter=No	vi
+3	,	,	PUNCT	,	_	6	punct	_	_	vi
+4	người	người	NOUN	N	_	6	nsubj	_	_	vi
+5	Thái Mỹ	Thái Mỹ	NOUN	Np	_	4	compound	_	_	vi
+6	cố	cố	VERB	V	_	0	root	_	_	vi
+7	quên	quên	VERB	V	_	6	xcomp	_	_	vi
+8	những	những	DET	L	_	9	det	_	_	vi
+9	mất mát	mất mát	NOUN	N	_	6	obj	_	_	vi
+10	cầm	cầm	VERB	V	_	6	ccomp	_	_	vi
+11	lấy	lấy	VERB	V	_	10	xcomp	_	_	vi
+12	cây	cây	NOUN	Nc	_	13	compound	_	_	vi
+13	cuốc	cuốc	NOUN	N	_	10	obj	_	SpaceAfter=No	vi
+14	.	.	PUNCT	.	_	6	punct	_	_	vi
+
+1	Nhân lực	Nhân lực	NOUN	N	_	3	nsubj	_	_	vi
+2	không	không	X	R	Polarity=Neg	3	advmod	_	_	vi
+3	nằm	nằm	VERB	V	_	0	root	_	_	vi
+4	trong	trong	ADP	E	_	5	case	_	_	vi
+5	biên chế	biên chế	NOUN	N	_	3	obl	_	_	vi
+6	được	được	X	R	_	7	advmod	_	_	vi
+7	duyệt	duyệt	VERB	V	_	5	xcomp	_	SpaceAfter=No	vi
+8	.	.	PUNCT	.	_	3	punct	_	_	vi
+
+1	số phận	số phận	NOUN	N	_	0	root	_	_	vi
+2	của	của	ADP	E	_	4	case	_	_	vi
+3	những	những	DET	L	_	4	det	_	_	vi
+4	người	người	NOUN	N	_	1	nmod	_	_	vi
+5	nói	nói	VERB	V	_	4	xcomp	_	_	vi
+6	lên	lên	X	R	_	5	advmod	_	_	vi
+7	sự thật	sự thật	NOUN	N	_	5	obj	_	SpaceAfter=No	vi
+8	.	.	PUNCT	.	_	1	punct	_	_	vi
+
+1	Chính	Chính	PART	T	_	2	discourse	_	_	vi
+2	vì	vì	ADP	E	_	11	advcl	_	_	vi
+3	giá	giá	NOUN	N	_	2	nmod	_	_	vi
+4	rẻ	rẻ	ADJ	A	_	3	amod	_	_	vi
+5	nên	nên	CCONJ	C	_	11	cc	_	_	vi
+6	ai	ai	PROPN	P	_	11	nsubj	_	_	vi
+7	muốn	muốn	VERB	V	_	11	advcl	_	_	vi
+8	mua	mua	VERB	V	_	7	xcomp	_	_	vi
+9	hàng	hàng	NOUN	N	_	8	obj	_	_	vi
+10	phải	phải	VERB	V	_	11	aux	_	_	vi
+11	mua	mua	VERB	V	_	0	root	_	_	vi
+12	với	với	ADP	E	_	13	case	_	_	vi
+13	số lượng	số lượng	NOUN	N	_	11	obl	_	_	vi
+14	vài	vài	DET	L	_	16	det	_	_	vi
+15	ngàn	ngàn	NUM	M	NumType=Card	16	nummod	_	_	vi
+16	chiếc	chiếc	NOUN	N	_	13	compound	_	_	vi
+17	mới	mới	X	R	_	18	advmod	_	_	vi
+18	bán	bán	VERB	V	_	16	xcomp	_	SpaceAfter=No	vi
+19	.	.	PUNCT	.	_	11	punct	_	_	vi
+
+1	Cha	Cha	NOUN	N	_	3	nsubj	_	_	vi
+2	là	là	AUX	V	_	3	cop	_	_	vi
+3	thợ	thợ	NOUN	N	_	0	root	_	SpaceAfter=No	vi
+4	,	,	PUNCT	,	_	3	punct	_	_	vi
+5	mẹ	mẹ	NOUN	N	_	7	nsubj	_	_	vi
+6	là	là	AUX	V	_	7	cop	_	_	vi
+7	nông dân	nông dân	NOUN	N	_	3	parataxis	_	SpaceAfter=No	vi
+8	.	.	PUNCT	.	_	3	punct	_	_	vi
+
+1	anh	anh	NOUN	Nc	_	2	compound	_	_	vi
+2	Đu	Đu	NOUN	Np	_	3	nsubj	_	_	vi
+3	nuôi	nuôi	VERB	V	_	0	root	_	_	vi
+4	đến	đến	ADP	E	_	5	case	_	_	vi
+5	khi	khi	NOUN	N	_	3	obl	_	_	vi
+6	heo	heo	NOUN	N	_	7	nsubj	_	_	vi
+7	lớn	lớn	VERB	V	_	5	ccomp	_	SpaceAfter=No	vi
+8	,	,	PUNCT	,	_	9	punct	_	_	vi
+9	bán	bán	VERB	V	_	7	conj	_	_	vi
+10	thịt	thịt	NOUN	N	_	9	obj	_	_	vi
+11	thì	thì	CCONJ	C	_	13	cc	_	_	vi
+12	mới	mới	X	R	_	13	advmod	_	_	vi
+13	trả	trả	VERB	V	_	3	conj	_	_	vi
+14	heo	heo	NOUN	N	_	13	obj	_	_	vi
+15	con	con	ADJ	A	_	14	amod	_	_	vi
+16	lại	lại	X	R	_	13	advmod	_	_	vi
+17	cho	cho	ADP	E	_	19	case	_	_	vi
+18	anh	anh	NOUN	Nc	_	19	compound	_	_	vi
+19	Thanh	Thanh	NOUN	Np	_	13	obl	_	SpaceAfter=No	vi
+20	,	,	PUNCT	,	_	22	punct	_	_	vi
+21	không	không	X	R	Polarity=Neg	22	advmod	_	_	vi
+22	tính	tính	VERB	V	_	3	conj	_	_	vi
+23	lời lãi	lời lãi	NOUN	N	_	22	obj	_	SpaceAfter=No	vi
+24	.	.	PUNCT	.	_	3	punct	_	_	vi
+
+1	cầu	cầu	NOUN	N	_	5	nsubj	_	_	vi
+2	Bình Triệu	Bình Triệu	NOUN	Np	_	1	compound	_	_	vi
+3	2	2	NUM	M	NumType=Card	1	nummod	_	_	vi
+4	chưa	chưa	X	R	_	5	advmod	_	_	vi
+5	xây	xây	VERB	V	_	0	root	_	_	vi
+6	xong	xong	VERB	V	_	5	xcomp	_	SpaceAfter=No	vi
+7	,	,	PUNCT	,	_	5	punct	_	_	vi
+8	làm	làm	VERB	V	_	5	parataxis	_	_	vi
+9	đường	đường	NOUN	N	_	8	obj	_	_	vi
+10	tạm	tạm	ADJ	A	_	9	amod	_	_	vi
+11	cho	cho	ADP	E	_	15	case	_	_	vi
+12	các	các	DET	L	_	13	det	_	_	vi
+13	phương tiện	phương tiện	NOUN	N	_	15	nsubj	_	_	vi
+14	giao thông	giao thông	NOUN	N	_	13	compound	_	_	vi
+15	đi lại	đi lại	VERB	V	_	8	ccomp	_	SpaceAfter=No	vi
+16	.	.	PUNCT	.	_	5	punct	_	_	vi
+
+1	Hai	Hai	NUM	M	NumType=Card	2	nummod	_	_	vi
+2	phút	phút	NOUN	N	_	8	obl	_	_	vi
+3	-	-	PUNCT	-	_	8	punct	_	_	vi
+4	chiếc	chiếc	NOUN	Nc	_	5	compound	_	_	vi
+5	xe	xe	NOUN	N	_	8	nsubj	_	_	vi
+6	gỗ	gỗ	NOUN	N	_	5	compound	_	_	vi
+7	đầu tiên	đầu tiên	ADJ	A	_	5	amod	_	_	vi
+8	qua	qua	VERB	V	_	0	root	_	SpaceAfter=No	vi
+9	,	,	PUNCT	,	_	8	punct	_	_	vi
+10	hai	hai	NUM	M	NumType=Card	11	nummod	_	_	vi
+11	phút	phút	NOUN	N	_	16	obl	_	_	vi
+12	sau	sau	ADJ	A	_	11	amod	_	_	vi
+13	xe	xe	NOUN	N	_	16	nsubj	_	_	vi
+14	khác	khác	ADJ	A	_	13	amod	_	_	vi
+15	lại	lại	X	R	_	16	advmod	_	_	vi
+16	tới	tới	VERB	V	_	8	parataxis	_	SpaceAfter=No	vi
+17	.	.	PUNCT	.	_	8	punct	_	_	vi
+
+1	hôm	hôm	NOUN	N	_	5	obl	_	_	vi
+2	bà	bà	NOUN	N	_	3	nsubj	_	_	vi
+3	mất	mất	VERB	V	_	1	ccomp	_	_	vi
+4	không	không	X	R	Polarity=Neg	5	advmod	_	_	vi
+5	tới	tới	VERB	V	_	0	root	_	_	vi
+6	được	được	X	R	_	5	advmod	_	SpaceAfter=No	vi
+7	,	,	PUNCT	,	_	5	punct	_	_	vi
+8	nay	nay	PROPN	P	_	9	obl	_	_	vi
+9	qua	qua	VERB	V	_	5	parataxis	_	_	vi
+10	thắp	thắp	VERB	V	_	9	xcomp	_	_	vi
+11	hương	hương	NOUN	N	_	10	obj	_	_	vi
+12	rồi	rồi	CCONJ	C	_	9	cc	_	_	vi
+13	lại	lại	X	R	_	15	advmod	_	_	vi
+14	phải	phải	VERB	V	_	15	aux	_	_	vi
+15	đi	đi	VERB	V	_	9	xcomp	_	_	vi
+16	luôn	luôn	X	R	_	15	advmod	_	SpaceAfter=No	vi
+17	...	...	PUNCT	...	_	5	punct	_	_	vi
+
+1	Ông	Ông	NOUN	N	_	2	nsubj	_	_	vi
+2	cho	cho	VERB	V	_	0	root	_	_	vi
+3	biết	biết	VERB	V	_	2	xcomp	_	SpaceAfter=No	vi
+4	:	:	PUNCT	:	_	2	punct	_	_	vi
+5	"	"	PUNCT	"	_	2	punct	_	SpaceAfter=No	vi
+6	phong trào	phong trào	NOUN	N	_	9	nsubj	_	_	vi
+7	cũng	cũng	X	R	_	9	advmod	_	_	vi
+8	khá	khá	X	R	_	9	advmod	_	_	vi
+9	sôi nổi	sôi nổi	ADJ	A	_	2	ccomp	_	SpaceAfter=No	vi
+10	.	.	PUNCT	.	_	2	punct	_	_	vi
+
+1	Vậy	Vậy	PART	T	_	13	discourse	_	_	vi
+2	thì	thì	CCONJ	C	_	13	cc	_	_	vi
+3	sự	sự	NOUN	N	_	13	nsubj	_	_	vi
+4	lầm than	lầm than	ADJ	A	_	3	amod	_	_	vi
+5	hôm nay	hôm nay	NOUN	N	_	3	nmod	_	_	vi
+6	của	của	ADP	E	_	7	case	_	_	vi
+7	nhóm	nhóm	NOUN	N	_	3	nmod	_	_	vi
+8	công nhân	công nhân	NOUN	N	_	7	compound	_	_	vi
+9	bảo vệ	bảo vệ	VERB	V	_	7	xcomp	_	_	vi
+10	cái	cái	NOUN	Nc	_	9	obj	_	_	vi
+11	thiện	thiện	ADJ	A	_	10	amod	_	_	vi
+12	kia	kia	PROPN	P	_	10	det	_	_	vi
+13	minh chứng	minh chứng	VERB	V	_	0	root	_	_	vi
+14	cho	cho	ADP	E	_	15	case	_	_	vi
+15	điều	điều	NOUN	N	_	13	obl	_	_	vi
+16	gì	gì	PROPN	P	_	15	det	_	SpaceAfter=No	vi
+17	?	?	PUNCT	?	_	13	punct	_	_	vi
+
+1	đến	đến	ADP	E	_	3	case	_	_	vi
+2	4	4	NUM	M	NumType=Card	3	nummod	_	_	vi
+3	giờ	giờ	NOUN	Nu	_	8	obl	_	_	vi
+4	sáng	sáng	NOUN	N	_	3	compound	_	SpaceAfter=No	vi
+5	,	,	PUNCT	,	_	8	punct	_	_	vi
+6	một	một	NUM	M	NumType=Card	7	nummod	_	_	vi
+7	người	người	NOUN	N	_	8	nsubj	_	_	vi
+8	nhô	nhô	VERB	V	_	0	root	_	_	vi
+9	lên	lên	X	R	_	8	advmod	_	_	vi
+10	mặt nước	mặt nước	NOUN	N	_	8	obj	_	_	vi
+11	báo	báo	VERB	V	_	8	ccomp	_	_	vi
+12	tin	tin	NOUN	N	_	11	obj	_	_	vi
+13	vui	vui	VERB	V	_	12	xcomp	_	SpaceAfter=No	vi
+14	:	:	PUNCT	:	_	12	punct	_	_	vi
+15	đoạn	đoạn	NOUN	N	_	19	nsubj	_	_	vi
+16	ống	ống	NOUN	N	_	15	compound	_	_	vi
+17	đã	đã	X	R	_	19	advmod	_	_	vi
+18	được	được	VERB	V	_	19	aux:pass	_	_	vi
+19	vá	vá	VERB	V	_	12	ccomp	_	_	vi
+20	xong	xong	X	R	_	19	advmod	_	SpaceAfter=No	vi
+21	.	.	PUNCT	.	_	8	punct	_	_	vi
+
+1	bản thân	bản thân	NOUN	N	_	6	nsubj	_	_	vi
+2	ông bà	ông bà	NOUN	N	_	1	compound	_	_	vi
+3	cũng	cũng	X	R	_	6	advmod	_	_	vi
+4	đã	đã	X	R	_	6	advmod	_	_	vi
+5	từng	từng	X	R	_	6	advmod	_	_	vi
+6	bàn	bàn	VERB	V	_	0	root	_	_	vi
+7	đến	đến	ADP	E	_	8	case	_	_	vi
+8	chuyện	chuyện	NOUN	N	_	6	obl	_	_	vi
+9	này	này	PROPN	P	_	8	det	_	_	vi
+10	vài	vài	DET	L	_	11	det	_	_	vi
+11	lần	lần	NOUN	N	_	6	obj	_	SpaceAfter=No	vi
+12	.	.	PUNCT	.	_	6	punct	_	_	vi
+
+1	Ngay	Ngay	PART	T	_	2	discourse	_	_	vi
+2	lúc	lúc	NOUN	N	_	9	nmod	_	_	vi
+3	sinh	sinh	VERB	V	_	2	xcomp	_	_	vi
+4	ra	ra	X	R	_	3	advmod	_	SpaceAfter=No	vi
+5	,	,	PUNCT	,	_	9	punct	_	_	vi
+6	người	người	NOUN	N	_	9	nsubj	_	_	vi
+7	cháu	cháu	NOUN	N	_	6	compound	_	_	vi
+8	cứ	cứ	X	R	_	9	advmod	_	_	vi
+9	đầy	đầy	ADJ	A	_	0	root	_	_	vi
+10	lông lá	lông lá	NOUN	N	_	9	obj	_	SpaceAfter=No	vi
+11	,	,	PUNCT	,	_	9	punct	_	_	vi
+12	đầu	đầu	NOUN	N	_	14	nsubj	_	_	vi
+13	thì	thì	CCONJ	C	_	14	cc	_	_	vi
+14	dài ngoẵng	dài ngoẵng	ADJ	A	_	9	parataxis	_	SpaceAfter=No	vi
+15	.	.	PUNCT	.	_	9	punct	_	_	vi
+
+1	Ông	Ông	NOUN	N	_	2	nsubj	_	_	vi
+2	nói	nói	VERB	V	_	0	root	_	_	vi
+3	thêm	thêm	VERB	V	_	2	xcomp	_	SpaceAfter=No	vi
+4	:	:	PUNCT	:	_	2	punct	_	_	vi
+5	"	"	PUNCT	"	_	2	punct	_	SpaceAfter=No	vi
+6	trước	trước	ADP	E	_	7	case	_	_	vi
+7	đây	đây	PROPN	P	_	10	nmod	_	_	vi
+8	TP	TP	NOUN	Ny	_	10	nsubj	_	_	vi
+9	là	là	AUX	V	_	10	cop	_	_	vi
+10	trung tâm	trung tâm	NOUN	N	_	2	ccomp	_	_	vi
+11	phân phối	phân phối	VERB	V	_	10	xcomp	_	_	vi
+12	hàng hóa	hàng hóa	NOUN	N	_	11	obj	_	SpaceAfter=No	vi
+13	.	.	PUNCT	.	_	2	punct	_	_	vi
+
+1	nhiều	nhiều	ADJ	A	_	5	advcl	_	_	vi
+2	lần	lần	NOUN	N	_	1	obj	_	_	vi
+3	Thu	Thu	NOUN	Np	_	5	nsubj	_	_	vi
+4	đã	đã	X	R	_	5	advmod	_	_	vi
+5	nhờ	nhờ	VERB	V	_	0	root	_	_	vi
+6	người	người	NOUN	N	_	5	obj	_	_	vi
+7	gọi	gọi	VERB	V	_	5	ccomp	_	_	vi
+8	vào	vào	X	R	_	7	advmod	_	_	vi
+9	số	số	NOUN	N	_	7	obj	_	_	vi
+10	máy	máy	NOUN	N	_	9	compound	_	_	vi
+11	đó	đó	PROPN	P	_	9	det	_	_	vi
+12	nhưng	nhưng	CCONJ	C	_	15	cc	_	_	vi
+13	vẫn	vẫn	X	R	_	15	advmod	_	_	vi
+14	không	không	X	R	Polarity=Neg	15	advmod	_	_	vi
+15	có	có	VERB	V	_	7	conj	_	_	vi
+16	người	người	NOUN	N	_	15	obj	_	_	vi
+17	nghe	nghe	VERB	V	_	16	xcomp	_	SpaceAfter=No	vi
+18	...	...	PUNCT	...	_	5	punct	_	_	vi
+
+1	Ngay	Ngay	PART	T	_	2	discourse	_	_	vi
+2	trong	trong	ADP	E	_	10	obl	_	_	vi
+3	đêm	đêm	NOUN	N	_	2	nmod	_	_	vi
+4	ấy	ấy	PROPN	P	_	3	det	_	SpaceAfter=No	vi
+5	,	,	PUNCT	,	_	10	punct	_	_	vi
+6	đoàn	đoàn	NOUN	Np	_	10	nsubj	_	_	vi
+7	cùng	cùng	CCONJ	C	_	8	cc	_	_	vi
+8	đồng đội	đồng đội	NOUN	N	_	6	conj	_	_	vi
+9	đã	đã	X	R	_	10	advmod	_	_	vi
+10	bắt	bắt	VERB	V	_	0	root	_	_	vi
+11	quả tang	quả tang	NOUN	N	_	10	obj	_	_	vi
+12	và	và	SCONJ	CC	_	13	cc	_	_	vi
+13	đưa	đưa	VERB	V	_	10	conj	_	_	vi
+14	hàng	hàng	X	R	_	16	advmod	_	_	vi
+15	chục	chục	NUM	M	NumType=Card	16	nummod	_	_	vi
+16	tên	tên	NOUN	N	_	13	obj	_	_	vi
+17	tội phạm	tội phạm	NOUN	N	_	16	compound	_	_	vi
+18	ra	ra	VERB	V	_	13	ccomp	_	_	vi
+19	ánh sáng	ánh sáng	NOUN	N	_	18	obj	_	SpaceAfter=No	vi
+20	.	.	PUNCT	.	_	10	punct	_	_	vi
+
+1	Hùng	Hùng	NOUN	Np	_	2	nsubj	_	_	vi
+2	xách	xách	VERB	V	_	0	root	_	_	vi
+3	cặp	cặp	NOUN	N	_	2	obj	_	_	vi
+4	lên	lên	VERB	V	_	2	ccomp	_	_	vi
+5	tầng	tầng	NOUN	N	_	4	obj	_	_	vi
+6	và	và	SCONJ	CC	_	7	cc	_	_	vi
+7	vào	vào	VERB	V	_	2	conj	_	_	vi
+8	một	một	NUM	M	NumType=Card	9	nummod	_	_	vi
+9	lớp học	lớp học	NOUN	N	_	7	obj	_	_	vi
+10	tại chức	tại chức	ADJ	A	_	9	amod	_	_	vi
+11	buổi	buổi	NOUN	N	_	9	nmod	_	_	vi
+12	tối	tối	NOUN	N	_	11	compound	_	SpaceAfter=No	vi
+13	.	.	PUNCT	.	_	2	punct	_	_	vi
+
+1	sau	sau	ADP	E	_	2	case	_	_	vi
+2	khi	khi	NOUN	N	_	9	obl	_	_	vi
+3	vụ việc	vụ việc	NOUN	N	_	4	nsubj	_	_	vi
+4	xảy	xảy	VERB	V	_	2	ccomp	_	_	vi
+5	ra	ra	X	R	_	4	advmod	_	SpaceAfter=No	vi
+6	,	,	PUNCT	,	_	9	punct	_	_	vi
+7	cơ quan	cơ quan	NOUN	N	_	9	nsubj	_	_	vi
+8	đã	đã	X	R	_	9	advmod	_	_	vi
+9	tổ chức	tổ chức	VERB	V	_	0	root	_	_	vi
+10	kiểm điểm	kiểm điểm	VERB	V	_	9	xcomp	_	_	vi
+11	về	về	ADP	E	_	12	case	_	_	vi
+12	việc	việc	NOUN	N	_	10	obl	_	_	vi
+13	đảng viên	đảng viên	NOUN	N	_	14	nsubj	_	_	vi
+14	đi	đi	VERB	V	_	12	ccomp	_	_	vi
+15	vào	vào	X	R	_	14	advmod	_	_	vi
+16	những	những	DET	L	_	17	det	_	_	vi
+17	chỗ	chỗ	NOUN	N	_	14	obj	_	_	vi
+18	không	không	X	R	Polarity=Neg	19	advmod	_	_	vi
+19	lành mạnh	lành mạnh	ADJ	A	_	17	amod	_	SpaceAfter=No	vi
+20	.	.	PUNCT	.	_	9	punct	_	_	vi
+
+1	Vấn đề	Vấn đề	NOUN	N	_	5	nsubj	_	_	vi
+2	chính	chính	PART	T	_	5	discourse	_	_	vi
+3	là	là	AUX	V	_	5	cop	_	_	vi
+4	Lan	Lan	NOUN	Np	_	5	nsubj	_	_	vi
+5	quan hệ	quan hệ	VERB	V	_	0	root	_	_	vi
+6	với	với	ADP	E	_	7	case	_	_	vi
+7	Nam	Nam	NOUN	Np	_	5	obl	_	_	vi
+8	như thế nào	như thế nào	X	X	_	5	dep	_	SpaceAfter=No	vi
+9	?	?	PUNCT	?	_	5	punct	_	_	vi
+
+1	Còn	Còn	CCONJ	C	_	6	cc	_	_	vi
+2	những	những	DET	L	_	3	det	_	_	vi
+3	người	người	NOUN	N	_	6	nsubj	_	_	vi
+4	khác	khác	ADJ	A	_	3	amod	_	_	vi
+5	được	được	VERB	V	_	6	aux:pass	_	_	vi
+6	bán	bán	VERB	V	_	0	root	_	_	vi
+7	lại	lại	X	R	_	6	advmod	_	_	vi
+8	qua	qua	ADP	E	_	11	case	_	_	vi
+9	các	các	DET	L	_	11	det	_	_	vi
+10	ông	ông	NOUN	Nc	_	11	compound	_	_	vi
+11	chủ	chủ	NOUN	N	_	6	obl	_	_	vi
+12	nhỏ	nhỏ	ADJ	A	_	11	amod	_	SpaceAfter=No	vi
+13	,	,	PUNCT	,	_	15	punct	_	_	vi
+14	không	không	X	R	Polarity=Neg	15	advmod	_	_	vi
+15	biết	biết	VERB	V	_	6	conj	_	_	vi
+16	số phận	số phận	NOUN	N	_	15	obj	_	_	vi
+17	ra sao	ra sao	X	X	_	16	dep	_	SpaceAfter=No	vi
+18	.	.	PUNCT	.	_	6	punct	_	_	vi
+
+1	cuộc đời	cuộc đời	NOUN	N	_	0	root	_	_	vi
+2	dưới	dưới	ADP	E	_	3	case	_	_	vi
+3	vành	vành	NOUN	N	_	1	nmod	_	_	vi
+4	mũ	mũ	NOUN	N	_	3	compound	_	_	vi
+5	thám tử	thám tử	NOUN	N	_	3	compound	_	SpaceAfter=No	vi
+6	.	.	PUNCT	.	_	1	punct	_	_	vi
+
+1	Thế nhưng	Thế nhưng	CCONJ	C	_	5	cc	_	SpaceAfter=No	vi
+2	,	,	PUNCT	,	_	5	punct	_	_	vi
+3	Toàn	Toàn	NOUN	Np	_	5	nsubj	_	_	vi
+4	chưa	chưa	X	R	_	5	advmod	_	_	vi
+5	kịp	kịp	ADJ	A	_	0	root	_	_	vi
+6	quay	quay	VERB	V	_	5	xcomp	_	_	vi
+7	xe	xe	NOUN	N	_	5	obj	_	_	vi
+8	về	về	VERB	V	_	5	xcomp	_	_	vi
+9	thì	thì	CCONJ	C	_	5	cc	_	_	vi
+10	Thư	Thư	NOUN	Np	_	12	nsubj	_	_	vi
+11	đã	đã	X	R	_	12	advmod	_	_	vi
+12	có mặt	có mặt	VERB	V	_	5	parataxis	_	_	vi
+13	ở	ở	ADP	E	_	14	case	_	_	vi
+14	cửa	cửa	NOUN	N	_	12	obl	_	_	vi
+15	nhà nghỉ	nhà nghỉ	NOUN	N	_	14	compound	_	SpaceAfter=No	vi
+16	.	.	PUNCT	.	_	5	punct	_	_	vi
+
+1	Nếu	Nếu	CCONJ	C	_	2	cc	_	_	vi
+2	dùng	dùng	VERB	V	_	0	root	_	_	vi
+3	sự	sự	NOUN	Nc	_	4	compound	_	_	vi
+4	cầu xin	cầu xin	NOUN	N	_	2	obj	_	SpaceAfter=No	vi
+5	,	,	PUNCT	,	_	6	punct	_	_	vi
+6	bày tỏ	bày tỏ	VERB	V	_	2	conj	_	_	vi
+7	sự	sự	NOUN	Nc	_	8	compound	_	_	vi
+8	khuất phục	khuất phục	NOUN	N	_	6	obj	_	_	vi
+9	để	để	ADP	E	_	2	case	_	_	vi
+10	hạ	hạ	VERB	V	_	9	mark	_	_	vi
+11	nhiệt	nhiệt	NOUN	N	_	10	obj	_	_	vi
+12	thì	thì	CCONJ	C	_	6	cc	_	_	vi
+13	nhu	nhu	NOUN	Np	_	18	nsubj	_	_	vi
+14	và	và	SCONJ	CC	_	15	cc	_	_	vi
+15	Liên	Liên	NOUN	Np	_	13	conj	_	_	vi
+16	cũng	cũng	X	R	_	18	advmod	_	_	vi
+17	đã	đã	X	R	_	18	advmod	_	_	vi
+18	làm	làm	VERB	V	_	2	parataxis	_	_	vi
+19	hết mình	hết mình	X	X	_	18	dep	_	_	vi
+20	rồi	rồi	X	R	_	18	advmod	_	SpaceAfter=No	vi
+21	.	.	PUNCT	.	_	2	punct	_	_	vi
+
+1	may	may	ADJ	A	_	4	xcomp	_	_	vi
+2	thay	thay	INTJ	I	_	1	discourse	_	_	vi
+3	người nhà	người nhà	NOUN	N	_	4	nsubj	_	_	vi
+4	phát hiện	phát hiện	VERB	V	_	0	root	_	SpaceAfter=No	vi
+5	,	,	PUNCT	,	_	4	punct	_	_	vi
+6	bi kịch	bi kịch	NOUN	N	_	10	nsubj	_	_	vi
+7	đó	đó	PROPN	P	_	6	det	_	_	vi
+8	đã	đã	X	R	_	10	advmod	_	_	vi
+9	không	không	X	R	Polarity=Neg	10	advmod	_	_	vi
+10	xảy	xảy	VERB	V	_	4	parataxis	_	_	vi
+11	ra	ra	X	R	_	10	advmod	_	SpaceAfter=No	vi
+12	.	.	PUNCT	.	_	4	punct	_	_	vi
+
+1	Hãng	Hãng	NOUN	N	_	2	nsubj	_	_	vi
+2	quyết định	quyết định	VERB	V	_	0	root	_	_	vi
+3	khen thưởng	khen thưởng	VERB	V	_	2	xcomp	_	_	vi
+4	tập thể	tập thể	NOUN	N	_	3	obj	_	_	vi
+5	và	và	SCONJ	CC	_	7	cc	_	_	vi
+6	một số	một số	DET	L	_	7	det	_	_	vi
+7	cá nhân	cá nhân	NOUN	N	_	4	conj	_	_	vi
+8	của	của	ADP	E	_	9	case	_	_	vi
+9	công ty	công ty	NOUN	N	_	4	nmod	_	SpaceAfter=No	vi
+10	,	,	PUNCT	,	_	11	punct	_	_	vi
+11	kèm	kèm	VERB	V	_	3	conj	_	_	vi
+12	tăng	tăng	VERB	V	_	11	xcomp	_	_	vi
+13	lương	lương	NOUN	N	_	12	obj	_	SpaceAfter=No	vi
+14	,	,	PUNCT	,	_	15	punct	_	_	vi
+15	thăng	thăng	VERB	V	_	12	conj	_	_	vi
+16	chức	chức	NOUN	N	_	15	obj	_	SpaceAfter=No	vi
+17	.	.	PUNCT	.	_	2	punct	_	_	vi
+
+1	ở	ở	ADP	E	_	13	advcl	_	_	vi
+2	Huế	Huế	NOUN	Np	_	1	nmod	_	SpaceAfter=No	vi
+3	,	,	PUNCT	,	_	13	punct	_	_	vi
+4	tác giả	tác giả	NOUN	N	_	13	nsubj	_	_	vi
+5	Chí Tượng	Chí Tượng	NOUN	Np	_	4	compound	_	_	vi
+6	với	với	ADP	E	_	7	case	_	_	vi
+7	sự	sự	NOUN	Nc	_	4	nmod	_	_	vi
+8	trân trọng	trân trọng	VERB	V	_	7	xcomp	_	SpaceAfter=No	vi
+9	,	,	PUNCT	,	_	10	punct	_	_	vi
+10	cảm phục	cảm phục	VERB	V	_	7	conj	_	SpaceAfter=No	vi
+11	,	,	PUNCT	,	_	13	punct	_	_	vi
+12	đã	đã	X	R	_	13	advmod	_	_	vi
+13	viết	viết	VERB	V	_	0	root	_	_	vi
+14	nhà	nhà	NOUN	N	_	13	obj	_	_	vi
+15	chuyên	chuyên	ADJ	A	_	14	amod	_	_	vi
+16	cứu	cứu	VERB	V	_	15	xcomp	_	_	vi
+17	người	người	NOUN	N	_	15	obj	_	_	vi
+18	gửi	gửi	VERB	V	_	13	ccomp	_	_	vi
+19	dự	dự	VERB	V	_	18	xcomp	_	_	vi
+20	thi	thi	VERB	V	_	19	xcomp	_	SpaceAfter=No	vi
+21	.	.	PUNCT	.	_	13	punct	_	_	vi
+
+1	đường	đường	NOUN	N	_	0	root	_	_	vi
+2	lên	lên	VERB	V	_	1	xcomp	_	_	vi
+3	Lâm Đồng	Lâm Đồng	NOUN	N	_	2	obj	_	SpaceAfter=No	vi
+4	:	:	PUNCT	:	_	1	punct	_	_	vi
+5	"	"	PUNCT	"	_	6	punct	_	SpaceAfter=No	vi
+6	điểm	điểm	NOUN	N	_	1	compound	_	_	vi
+7	đen	đen	ADJ	A	_	6	amod	_	SpaceAfter=No	vi
+8	"	"	PUNCT	"	_	6	punct	_	_	vi
+9	ở	ở	ADP	E	_	10	case	_	_	vi
+10	km	km	NOUN	Nu	_	6	advcl	_	_	vi
+11	95	95	NUM	M	NumType=Card	10	nummod	_	SpaceAfter=No	vi
+12	.	.	PUNCT	.	_	1	punct	_	_	vi
+
+1	Ngoài ra	Ngoài ra	CCONJ	C	_	5	cc	_	SpaceAfter=No	vi
+2	,	,	PUNCT	,	_	5	punct	_	_	vi
+3	chúng tôi	chúng tôi	PROPN	P	_	5	nsubj	_	_	vi
+4	sẽ	sẽ	X	R	_	5	advmod	_	_	vi
+5	tích cực	tích cực	ADJ	A	_	0	root	_	_	vi
+6	đáp ứng	đáp ứng	VERB	V	_	5	xcomp	_	_	vi
+7	nhu cầu	nhu cầu	NOUN	N	_	5	obj	_	_	vi
+8	của	của	ADP	E	_	9	case	_	_	vi
+9	bà con	bà con	NOUN	N	_	7	nmod	_	_	vi
+10	trong	trong	ADP	E	_	11	case	_	_	vi
+11	việc	việc	NOUN	N	_	9	nmod	_	_	vi
+12	giao lưu	giao lưu	VERB	V	_	11	xcomp	_	SpaceAfter=No	vi
+13	,	,	PUNCT	,	_	14	punct	_	_	vi
+14	học	học	VERB	V	_	12	conj	_	_	vi
+15	tiếng	tiếng	NOUN	N	_	14	obj	_	_	vi
+16	Việt	Việt	NOUN	Np	_	15	compound	_	SpaceAfter=No	vi
+17	,	,	PUNCT	,	_	18	punct	_	_	vi
+18	đi	đi	VERB	V	_	12	conj	_	_	vi
+19	tham quan	tham quan	VERB	V	_	18	xcomp	_	SpaceAfter=No	vi
+20	,	,	PUNCT	,	_	21	punct	_	_	vi
+21	tìm hiểu	tìm hiểu	VERB	V	_	12	conj	_	_	vi
+22	văn hóa	văn hóa	NOUN	N	_	21	obj	_	_	vi
+23	truyền thống	truyền thống	ADJ	A	_	22	amod	_	SpaceAfter=No	vi
+24	.	.	PUNCT	.	_	5	punct	_	_	vi
+
+1	trong	trong	ADP	E	_	0	root	_	_	vi
+2	khi	khi	NOUN	N	_	1	nmod	_	_	vi
+3	có	có	VERB	V	_	2	xcomp	_	_	vi
+4	quá	quá	X	R	_	7	advmod	_	_	vi
+5	nhiều	nhiều	ADJ	A	_	7	amod	_	_	vi
+6	đứa	đứa	NOUN	Nc	_	7	compound	_	_	vi
+7	trẻ	trẻ	NOUN	N	_	9	nsubj	_	_	vi
+8	chỉ	chỉ	X	R	_	9	advmod	_	_	vi
+9	nghĩ	nghĩ	VERB	V	_	3	ccomp	_	SpaceAfter=No	vi
+10	,	,	PUNCT	,	_	11	punct	_	_	vi
+11	thèm	thèm	VERB	V	_	9	conj	_	_	vi
+12	một	một	NUM	M	NumType=Card	13	nummod	_	_	vi
+13	bữa	bữa	NOUN	N	_	9	obj	_	_	vi
+14	ăn	ăn	VERB	V	_	13	xcomp	_	SpaceAfter=No	vi
+15	...	...	PUNCT	...	_	3	punct	_	SpaceAfter=No	vi
+16	"	"	PUNCT	"	_	3	punct	_	SpaceAfter=No	vi
+17	.	.	PUNCT	.	_	1	punct	_	_	vi
+
+1	Vậy	Vậy	PROPN	P	_	8	det	_	_	vi
+2	bốn	bốn	NUM	M	NumType=Card	3	nummod	_	_	vi
+3	người	người	NOUN	N	_	8	nsubj	_	_	vi
+4	khách	khách	NOUN	N	_	3	compound	_	_	vi
+5	mua dâm	mua dâm	VERB	V	_	3	xcomp	_	_	vi
+6	đó	đó	PROPN	P	_	3	det	_	_	vi
+7	là	là	AUX	V	_	8	cop	_	_	vi
+8	ai	ai	PROPN	P	_	0	root	_	SpaceAfter=No	vi
+9	?	?	PUNCT	?	_	8	punct	_	_	vi
+
+1	Thọ	Thọ	NOUN	Np	_	2	nsubj	_	_	vi
+2	nghĩ	nghĩ	VERB	V	_	0	root	_	_	vi
+3	mãi	mãi	X	R	_	2	advmod	_	_	vi
+4	nhưng	nhưng	CCONJ	C	_	6	cc	_	_	vi
+5	không	không	X	R	Polarity=Neg	6	advmod	_	_	vi
+6	ra	ra	VERB	V	_	2	conj	_	SpaceAfter=No	vi
+7	.	.	PUNCT	.	_	2	punct	_	_	vi
+
